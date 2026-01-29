@@ -92,8 +92,8 @@ Damage Severity: {severity}
 async def main():
 
     agent = SensorAgent(
-        "piini@xmpp.jp",  
-        "Trojanhorse56$"           
+        "theodices@xmpp.jp",  
+        "00009999theo$"           
     )
 
     await agent.start()
