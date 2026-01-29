@@ -1,0 +1,8806 @@
+
+Time: 2026-01-29 00:19:26
+Temperature: 28 °C
+Water Level: 13 cm
+Smoke Level: 7 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:19:31
+Temperature: 27 °C
+Water Level: 15 cm
+Smoke Level: 9 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:19:36
+Temperature: 31 °C
+Water Level: 15 cm
+Smoke Level: 9 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:19:41
+Temperature: 36 °C
+Water Level: 15 cm
+Smoke Level: 10 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:19:46
+Temperature: 36 °C
+Water Level: 16 cm
+Smoke Level: 10 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:19:51
+Temperature: 38 °C
+Water Level: 16 cm
+Smoke Level: 10 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:19:56
+Temperature: 37 °C
+Water Level: 20 cm
+Smoke Level: 13 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:01
+Temperature: 38 °C
+Water Level: 24 cm
+Smoke Level: 16 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:06
+Temperature: 37 °C
+Water Level: 26 cm
+Smoke Level: 18 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:11
+Temperature: 39 °C
+Water Level: 27 cm
+Smoke Level: 20 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:16
+Temperature: 39 °C
+Water Level: 27 cm
+Smoke Level: 21 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:21
+Temperature: 38 °C
+Water Level: 30 cm
+Smoke Level: 24 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:26
+Temperature: 41 °C
+Water Level: 34 cm
+Smoke Level: 26 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:31
+Temperature: 39 °C
+Water Level: 36 cm
+Smoke Level: 28 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:36
+Temperature: 43 °C
+Water Level: 37 cm
+Smoke Level: 31 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:41
+Temperature: 41 °C
+Water Level: 37 cm
+Smoke Level: 32 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:46
+Temperature: 42 °C
+Water Level: 37 cm
+Smoke Level: 33 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:51
+Temperature: 41 °C
+Water Level: 41 cm
+Smoke Level: 36 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:20:56
+Temperature: 45 °C
+Water Level: 44 cm
+Smoke Level: 37 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:21:01
+Temperature: 43 °C
+Water Level: 46 cm
+Smoke Level: 40 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:21:06
+Temperature: 47 °C
+Water Level: 50 cm
+Smoke Level: 40 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:11
+Temperature: 51 °C
+Water Level: 53 cm
+Smoke Level: 42 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:16
+Temperature: 51 °C
+Water Level: 54 cm
+Smoke Level: 43 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:21
+Temperature: 50 °C
+Water Level: 54 cm
+Smoke Level: 46 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:26
+Temperature: 50 °C
+Water Level: 55 cm
+Smoke Level: 46 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:31
+Temperature: 49 °C
+Water Level: 55 cm
+Smoke Level: 49 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:36
+Temperature: 47 °C
+Water Level: 55 cm
+Smoke Level: 49 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:41
+Temperature: 46 °C
+Water Level: 58 cm
+Smoke Level: 50 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:46
+Temperature: 50 °C
+Water Level: 61 cm
+Smoke Level: 52 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:51
+Temperature: 49 °C
+Water Level: 65 cm
+Smoke Level: 52 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:21:56
+Temperature: 52 °C
+Water Level: 68 cm
+Smoke Level: 52 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:01
+Temperature: 55 °C
+Water Level: 68 cm
+Smoke Level: 52 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:06
+Temperature: 57 °C
+Water Level: 71 cm
+Smoke Level: 55 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:11
+Temperature: 58 °C
+Water Level: 72 cm
+Smoke Level: 57 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:16
+Temperature: 58 °C
+Water Level: 72 cm
+Smoke Level: 59 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:21
+Temperature: 57 °C
+Water Level: 72 cm
+Smoke Level: 59 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:26
+Temperature: 60 °C
+Water Level: 72 cm
+Smoke Level: 62 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:31
+Temperature: 59 °C
+Water Level: 76 cm
+Smoke Level: 63 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:36
+Temperature: 64 °C
+Water Level: 79 cm
+Smoke Level: 63 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:41
+Temperature: 68 °C
+Water Level: 80 cm
+Smoke Level: 64 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:46
+Temperature: 73 °C
+Water Level: 80 cm
+Smoke Level: 67 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:51
+Temperature: 73 °C
+Water Level: 80 cm
+Smoke Level: 67 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:22:56
+Temperature: 74 °C
+Water Level: 82 cm
+Smoke Level: 69 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:01
+Temperature: 77 °C
+Water Level: 86 cm
+Smoke Level: 71 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:06
+Temperature: 82 °C
+Water Level: 86 cm
+Smoke Level: 72 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:11
+Temperature: 83 °C
+Water Level: 90 cm
+Smoke Level: 73 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:16
+Temperature: 87 °C
+Water Level: 91 cm
+Smoke Level: 75 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:21
+Temperature: 92 °C
+Water Level: 91 cm
+Smoke Level: 78 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:26
+Temperature: 97 °C
+Water Level: 94 cm
+Smoke Level: 81 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:31
+Temperature: 96 °C
+Water Level: 96 cm
+Smoke Level: 83 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:36
+Temperature: 96 °C
+Water Level: 98 cm
+Smoke Level: 85 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:41
+Temperature: 97 °C
+Water Level: 99 cm
+Smoke Level: 86 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:46
+Temperature: 98 °C
+Water Level: 99 cm
+Smoke Level: 88 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:51
+Temperature: 101 °C
+Water Level: 99 cm
+Smoke Level: 88 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:23:56
+Temperature: 102 °C
+Water Level: 101 cm
+Smoke Level: 90 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:01
+Temperature: 103 °C
+Water Level: 104 cm
+Smoke Level: 91 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:06
+Temperature: 104 °C
+Water Level: 104 cm
+Smoke Level: 93 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:11
+Temperature: 108 °C
+Water Level: 106 cm
+Smoke Level: 93 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:16
+Temperature: 109 °C
+Water Level: 110 cm
+Smoke Level: 94 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:21
+Temperature: 114 °C
+Water Level: 112 cm
+Smoke Level: 96 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:26
+Temperature: 113 °C
+Water Level: 114 cm
+Smoke Level: 96 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:31
+Temperature: 114 °C
+Water Level: 115 cm
+Smoke Level: 98 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:36
+Temperature: 115 °C
+Water Level: 116 cm
+Smoke Level: 98 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:41
+Temperature: 116 °C
+Water Level: 119 cm
+Smoke Level: 100 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:46
+Temperature: 115 °C
+Water Level: 123 cm
+Smoke Level: 102 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:51
+Temperature: 117 °C
+Water Level: 123 cm
+Smoke Level: 103 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:24:56
+Temperature: 115 °C
+Water Level: 127 cm
+Smoke Level: 106 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:01
+Temperature: 116 °C
+Water Level: 130 cm
+Smoke Level: 109 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:06
+Temperature: 115 °C
+Water Level: 134 cm
+Smoke Level: 109 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:11
+Temperature: 120 °C
+Water Level: 138 cm
+Smoke Level: 111 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:16
+Temperature: 125 °C
+Water Level: 140 cm
+Smoke Level: 114 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:21
+Temperature: 124 °C
+Water Level: 143 cm
+Smoke Level: 114 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:26
+Temperature: 124 °C
+Water Level: 145 cm
+Smoke Level: 115 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:31
+Temperature: 126 °C
+Water Level: 148 cm
+Smoke Level: 116 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:36
+Temperature: 127 °C
+Water Level: 149 cm
+Smoke Level: 118 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:41
+Temperature: 130 °C
+Water Level: 151 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:46
+Temperature: 129 °C
+Water Level: 155 cm
+Smoke Level: 121 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:51
+Temperature: 131 °C
+Water Level: 155 cm
+Smoke Level: 122 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:25:56
+Temperature: 129 °C
+Water Level: 158 cm
+Smoke Level: 124 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:01
+Temperature: 128 °C
+Water Level: 158 cm
+Smoke Level: 127 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:06
+Temperature: 127 °C
+Water Level: 161 cm
+Smoke Level: 129 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:11
+Temperature: 125 °C
+Water Level: 164 cm
+Smoke Level: 130 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:16
+Temperature: 125 °C
+Water Level: 167 cm
+Smoke Level: 130 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:21
+Temperature: 130 °C
+Water Level: 170 cm
+Smoke Level: 133 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:26
+Temperature: 128 °C
+Water Level: 173 cm
+Smoke Level: 136 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:31
+Temperature: 126 °C
+Water Level: 176 cm
+Smoke Level: 138 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:36
+Temperature: 125 °C
+Water Level: 179 cm
+Smoke Level: 139 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:41
+Temperature: 124 °C
+Water Level: 182 cm
+Smoke Level: 141 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:46
+Temperature: 127 °C
+Water Level: 182 cm
+Smoke Level: 143 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:51
+Temperature: 125 °C
+Water Level: 183 cm
+Smoke Level: 146 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:26:56
+Temperature: 130 °C
+Water Level: 187 cm
+Smoke Level: 147 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:01
+Temperature: 132 °C
+Water Level: 187 cm
+Smoke Level: 149 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:06
+Temperature: 134 °C
+Water Level: 189 cm
+Smoke Level: 152 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:11
+Temperature: 134 °C
+Water Level: 192 cm
+Smoke Level: 153 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:16
+Temperature: 137 °C
+Water Level: 196 cm
+Smoke Level: 155 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:21
+Temperature: 141 °C
+Water Level: 200 cm
+Smoke Level: 158 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:26
+Temperature: 144 °C
+Water Level: 201 cm
+Smoke Level: 159 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:31
+Temperature: 146 °C
+Water Level: 204 cm
+Smoke Level: 162 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:36
+Temperature: 151 °C
+Water Level: 204 cm
+Smoke Level: 162 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:41
+Temperature: 151 °C
+Water Level: 206 cm
+Smoke Level: 163 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:46
+Temperature: 149 °C
+Water Level: 210 cm
+Smoke Level: 163 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:51
+Temperature: 154 °C
+Water Level: 212 cm
+Smoke Level: 166 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:27:56
+Temperature: 156 °C
+Water Level: 214 cm
+Smoke Level: 168 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:01
+Temperature: 161 °C
+Water Level: 215 cm
+Smoke Level: 169 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:06
+Temperature: 160 °C
+Water Level: 215 cm
+Smoke Level: 169 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:11
+Temperature: 160 °C
+Water Level: 219 cm
+Smoke Level: 172 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:16
+Temperature: 162 °C
+Water Level: 220 cm
+Smoke Level: 175 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:21
+Temperature: 163 °C
+Water Level: 223 cm
+Smoke Level: 178 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:26
+Temperature: 168 °C
+Water Level: 227 cm
+Smoke Level: 178 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:31
+Temperature: 170 °C
+Water Level: 228 cm
+Smoke Level: 181 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:36
+Temperature: 173 °C
+Water Level: 228 cm
+Smoke Level: 184 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:41
+Temperature: 173 °C
+Water Level: 228 cm
+Smoke Level: 186 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:46
+Temperature: 178 °C
+Water Level: 228 cm
+Smoke Level: 187 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:51
+Temperature: 178 °C
+Water Level: 229 cm
+Smoke Level: 189 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:28:56
+Temperature: 177 °C
+Water Level: 233 cm
+Smoke Level: 190 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:01
+Temperature: 178 °C
+Water Level: 237 cm
+Smoke Level: 190 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:06
+Temperature: 182 °C
+Water Level: 240 cm
+Smoke Level: 190 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:11
+Temperature: 183 °C
+Water Level: 242 cm
+Smoke Level: 193 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:16
+Temperature: 188 °C
+Water Level: 245 cm
+Smoke Level: 193 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:21
+Temperature: 186 °C
+Water Level: 248 cm
+Smoke Level: 195 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:26
+Temperature: 190 °C
+Water Level: 249 cm
+Smoke Level: 197 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:31
+Temperature: 189 °C
+Water Level: 253 cm
+Smoke Level: 200 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:36
+Temperature: 190 °C
+Water Level: 254 cm
+Smoke Level: 200 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:41
+Temperature: 189 °C
+Water Level: 254 cm
+Smoke Level: 203 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:46
+Temperature: 193 °C
+Water Level: 256 cm
+Smoke Level: 206 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:51
+Temperature: 193 °C
+Water Level: 257 cm
+Smoke Level: 206 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:29:56
+Temperature: 195 °C
+Water Level: 259 cm
+Smoke Level: 207 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:01
+Temperature: 194 °C
+Water Level: 263 cm
+Smoke Level: 210 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:06
+Temperature: 197 °C
+Water Level: 266 cm
+Smoke Level: 213 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:11
+Temperature: 195 °C
+Water Level: 267 cm
+Smoke Level: 214 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:16
+Temperature: 199 °C
+Water Level: 270 cm
+Smoke Level: 215 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:21
+Temperature: 202 °C
+Water Level: 272 cm
+Smoke Level: 215 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:26
+Temperature: 200 °C
+Water Level: 273 cm
+Smoke Level: 216 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:31
+Temperature: 200 °C
+Water Level: 273 cm
+Smoke Level: 219 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:36
+Temperature: 201 °C
+Water Level: 275 cm
+Smoke Level: 219 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:41
+Temperature: 199 °C
+Water Level: 276 cm
+Smoke Level: 220 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:46
+Temperature: 199 °C
+Water Level: 276 cm
+Smoke Level: 223 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:51
+Temperature: 204 °C
+Water Level: 280 cm
+Smoke Level: 224 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:30:56
+Temperature: 205 °C
+Water Level: 283 cm
+Smoke Level: 226 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:01
+Temperature: 203 °C
+Water Level: 287 cm
+Smoke Level: 227 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:06
+Temperature: 204 °C
+Water Level: 287 cm
+Smoke Level: 229 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:11
+Temperature: 206 °C
+Water Level: 288 cm
+Smoke Level: 232 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:16
+Temperature: 205 °C
+Water Level: 290 cm
+Smoke Level: 233 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:21
+Temperature: 209 °C
+Water Level: 292 cm
+Smoke Level: 235 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:26
+Temperature: 207 °C
+Water Level: 292 cm
+Smoke Level: 235 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:31
+Temperature: 207 °C
+Water Level: 295 cm
+Smoke Level: 235 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:36
+Temperature: 209 °C
+Water Level: 298 cm
+Smoke Level: 237 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:41
+Temperature: 212 °C
+Water Level: 302 cm
+Smoke Level: 237 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:45
+Temperature: 30 °C
+Water Level: 12 cm
+Smoke Level: 5 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:31:46
+Temperature: 216 °C
+Water Level: 302 cm
+Smoke Level: 238 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:50
+Temperature: 28 °C
+Water Level: 15 cm
+Smoke Level: 8 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:31:51
+Temperature: 214 °C
+Water Level: 304 cm
+Smoke Level: 238 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:31:55
+Temperature: 33 °C
+Water Level: 17 cm
+Smoke Level: 9 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:31:56
+Temperature: 217 °C
+Water Level: 306 cm
+Smoke Level: 239 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:00
+Temperature: 33 °C
+Water Level: 21 cm
+Smoke Level: 11 %
+Damage Severity: LOW
+----------------------------
+
+Time: 2026-01-29 00:32:01
+Temperature: 217 °C
+Water Level: 308 cm
+Smoke Level: 241 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:05
+Temperature: 37 °C
+Water Level: 23 cm
+Smoke Level: 13 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:32:06
+Temperature: 221 °C
+Water Level: 310 cm
+Smoke Level: 241 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:10
+Temperature: 42 °C
+Water Level: 26 cm
+Smoke Level: 15 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:32:11
+Temperature: 222 °C
+Water Level: 313 cm
+Smoke Level: 242 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:15
+Temperature: 44 °C
+Water Level: 27 cm
+Smoke Level: 17 %
+Damage Severity: MEDIUM
+----------------------------
+
+Time: 2026-01-29 00:32:16
+Temperature: 222 °C
+Water Level: 314 cm
+Smoke Level: 245 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:20
+Temperature: 46 °C
+Water Level: 31 cm
+Smoke Level: 18 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:21
+Temperature: 222 °C
+Water Level: 315 cm
+Smoke Level: 246 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:25
+Temperature: 49 °C
+Water Level: 34 cm
+Smoke Level: 18 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:26
+Temperature: 227 °C
+Water Level: 318 cm
+Smoke Level: 249 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:30
+Temperature: 47 °C
+Water Level: 37 cm
+Smoke Level: 19 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:31
+Temperature: 232 °C
+Water Level: 319 cm
+Smoke Level: 249 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:35
+Temperature: 50 °C
+Water Level: 39 cm
+Smoke Level: 22 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:36
+Temperature: 236 °C
+Water Level: 319 cm
+Smoke Level: 249 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:40
+Temperature: 52 °C
+Water Level: 43 cm
+Smoke Level: 25 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:41
+Temperature: 239 °C
+Water Level: 321 cm
+Smoke Level: 251 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:45
+Temperature: 57 °C
+Water Level: 44 cm
+Smoke Level: 25 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:46
+Temperature: 240 °C
+Water Level: 321 cm
+Smoke Level: 251 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:50
+Temperature: 61 °C
+Water Level: 48 cm
+Smoke Level: 28 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:51
+Temperature: 245 °C
+Water Level: 321 cm
+Smoke Level: 251 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:55
+Temperature: 64 °C
+Water Level: 49 cm
+Smoke Level: 30 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:32:56
+Temperature: 246 °C
+Water Level: 323 cm
+Smoke Level: 251 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:00
+Temperature: 66 °C
+Water Level: 49 cm
+Smoke Level: 30 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:01
+Temperature: 249 °C
+Water Level: 324 cm
+Smoke Level: 251 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:05
+Temperature: 66 °C
+Water Level: 49 cm
+Smoke Level: 32 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:06
+Temperature: 250 °C
+Water Level: 328 cm
+Smoke Level: 253 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:10
+Temperature: 70 °C
+Water Level: 52 cm
+Smoke Level: 33 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:11
+Temperature: 254 °C
+Water Level: 331 cm
+Smoke Level: 254 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:15
+Temperature: 72 °C
+Water Level: 55 cm
+Smoke Level: 34 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:16
+Temperature: 258 °C
+Water Level: 335 cm
+Smoke Level: 256 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:20
+Temperature: 74 °C
+Water Level: 57 cm
+Smoke Level: 36 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:21
+Temperature: 258 °C
+Water Level: 335 cm
+Smoke Level: 259 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:25
+Temperature: 75 °C
+Water Level: 59 cm
+Smoke Level: 39 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:26
+Temperature: 263 °C
+Water Level: 339 cm
+Smoke Level: 260 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:30
+Temperature: 73 °C
+Water Level: 63 cm
+Smoke Level: 42 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:31
+Temperature: 265 °C
+Water Level: 342 cm
+Smoke Level: 260 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:35
+Temperature: 72 °C
+Water Level: 67 cm
+Smoke Level: 45 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:36
+Temperature: 267 °C
+Water Level: 345 cm
+Smoke Level: 260 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:40
+Temperature: 77 °C
+Water Level: 67 cm
+Smoke Level: 46 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:41
+Temperature: 271 °C
+Water Level: 347 cm
+Smoke Level: 261 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:45
+Temperature: 75 °C
+Water Level: 70 cm
+Smoke Level: 46 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:46
+Temperature: 274 °C
+Water Level: 347 cm
+Smoke Level: 264 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:50
+Temperature: 80 °C
+Water Level: 72 cm
+Smoke Level: 46 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:51
+Temperature: 272 °C
+Water Level: 350 cm
+Smoke Level: 264 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:55
+Temperature: 84 °C
+Water Level: 72 cm
+Smoke Level: 47 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:33:56
+Temperature: 272 °C
+Water Level: 354 cm
+Smoke Level: 264 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:00
+Temperature: 88 °C
+Water Level: 76 cm
+Smoke Level: 49 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:01
+Temperature: 273 °C
+Water Level: 358 cm
+Smoke Level: 266 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:05
+Temperature: 92 °C
+Water Level: 77 cm
+Smoke Level: 49 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:06
+Temperature: 278 °C
+Water Level: 358 cm
+Smoke Level: 268 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:10
+Temperature: 93 °C
+Water Level: 78 cm
+Smoke Level: 51 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:11
+Temperature: 283 °C
+Water Level: 362 cm
+Smoke Level: 271 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:15
+Temperature: 93 °C
+Water Level: 78 cm
+Smoke Level: 54 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:16
+Temperature: 283 °C
+Water Level: 362 cm
+Smoke Level: 272 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:20
+Temperature: 96 °C
+Water Level: 81 cm
+Smoke Level: 55 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:21
+Temperature: 281 °C
+Water Level: 365 cm
+Smoke Level: 273 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:25
+Temperature: 96 °C
+Water Level: 85 cm
+Smoke Level: 58 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:26
+Temperature: 282 °C
+Water Level: 367 cm
+Smoke Level: 276 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:30
+Temperature: 96 °C
+Water Level: 87 cm
+Smoke Level: 58 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:31
+Temperature: 284 °C
+Water Level: 369 cm
+Smoke Level: 279 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:35
+Temperature: 97 °C
+Water Level: 91 cm
+Smoke Level: 61 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:36
+Temperature: 284 °C
+Water Level: 369 cm
+Smoke Level: 280 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:40
+Temperature: 96 °C
+Water Level: 94 cm
+Smoke Level: 64 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:41
+Temperature: 282 °C
+Water Level: 372 cm
+Smoke Level: 280 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:45
+Temperature: 99 °C
+Water Level: 97 cm
+Smoke Level: 65 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:46
+Temperature: 282 °C
+Water Level: 373 cm
+Smoke Level: 282 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:50
+Temperature: 104 °C
+Water Level: 97 cm
+Smoke Level: 66 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:51
+Temperature: 285 °C
+Water Level: 374 cm
+Smoke Level: 285 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:55
+Temperature: 104 °C
+Water Level: 98 cm
+Smoke Level: 69 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:34:56
+Temperature: 289 °C
+Water Level: 376 cm
+Smoke Level: 285 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:00
+Temperature: 108 °C
+Water Level: 101 cm
+Smoke Level: 70 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:01
+Temperature: 292 °C
+Water Level: 377 cm
+Smoke Level: 286 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:05
+Temperature: 110 °C
+Water Level: 102 cm
+Smoke Level: 70 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:06
+Temperature: 293 °C
+Water Level: 378 cm
+Smoke Level: 287 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:10
+Temperature: 114 °C
+Water Level: 105 cm
+Smoke Level: 73 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:11
+Temperature: 296 °C
+Water Level: 382 cm
+Smoke Level: 289 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:15
+Temperature: 117 °C
+Water Level: 106 cm
+Smoke Level: 73 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:16
+Temperature: 298 °C
+Water Level: 383 cm
+Smoke Level: 291 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:20
+Temperature: 116 °C
+Water Level: 109 cm
+Smoke Level: 75 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:21
+Temperature: 297 °C
+Water Level: 387 cm
+Smoke Level: 292 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:25
+Temperature: 117 °C
+Water Level: 111 cm
+Smoke Level: 78 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:26
+Temperature: 295 °C
+Water Level: 389 cm
+Smoke Level: 295 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:30
+Temperature: 120 °C
+Water Level: 113 cm
+Smoke Level: 80 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:31
+Temperature: 296 °C
+Water Level: 393 cm
+Smoke Level: 297 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:35
+Temperature: 122 °C
+Water Level: 116 cm
+Smoke Level: 81 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:36
+Temperature: 301 °C
+Water Level: 393 cm
+Smoke Level: 298 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:40
+Temperature: 126 °C
+Water Level: 117 cm
+Smoke Level: 82 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:41
+Temperature: 299 °C
+Water Level: 395 cm
+Smoke Level: 301 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:45
+Temperature: 130 °C
+Water Level: 121 cm
+Smoke Level: 82 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:46
+Temperature: 304 °C
+Water Level: 395 cm
+Smoke Level: 303 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:50
+Temperature: 130 °C
+Water Level: 123 cm
+Smoke Level: 82 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:51
+Temperature: 307 °C
+Water Level: 398 cm
+Smoke Level: 304 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:55
+Temperature: 131 °C
+Water Level: 124 cm
+Smoke Level: 83 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:35:56
+Temperature: 305 °C
+Water Level: 398 cm
+Smoke Level: 304 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:00
+Temperature: 133 °C
+Water Level: 126 cm
+Smoke Level: 85 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:01
+Temperature: 310 °C
+Water Level: 401 cm
+Smoke Level: 307 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:05
+Temperature: 136 °C
+Water Level: 128 cm
+Smoke Level: 86 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:06
+Temperature: 309 °C
+Water Level: 405 cm
+Smoke Level: 307 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:10
+Temperature: 134 °C
+Water Level: 130 cm
+Smoke Level: 88 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:11
+Temperature: 314 °C
+Water Level: 405 cm
+Smoke Level: 310 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:15
+Temperature: 133 °C
+Water Level: 130 cm
+Smoke Level: 91 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:16
+Temperature: 312 °C
+Water Level: 408 cm
+Smoke Level: 310 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:20
+Temperature: 135 °C
+Water Level: 131 cm
+Smoke Level: 92 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:21
+Temperature: 313 °C
+Water Level: 410 cm
+Smoke Level: 312 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:25
+Temperature: 133 °C
+Water Level: 134 cm
+Smoke Level: 93 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:26
+Temperature: 318 °C
+Water Level: 413 cm
+Smoke Level: 312 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:30
+Temperature: 132 °C
+Water Level: 138 cm
+Smoke Level: 93 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:31
+Temperature: 320 °C
+Water Level: 417 cm
+Smoke Level: 315 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:35
+Temperature: 135 °C
+Water Level: 140 cm
+Smoke Level: 95 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:36
+Temperature: 320 °C
+Water Level: 418 cm
+Smoke Level: 317 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:40
+Temperature: 138 °C
+Water Level: 141 cm
+Smoke Level: 96 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:41
+Temperature: 320 °C
+Water Level: 422 cm
+Smoke Level: 317 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:45
+Temperature: 140 °C
+Water Level: 145 cm
+Smoke Level: 97 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:46
+Temperature: 325 °C
+Water Level: 423 cm
+Smoke Level: 319 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:50
+Temperature: 143 °C
+Water Level: 147 cm
+Smoke Level: 100 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:51
+Temperature: 330 °C
+Water Level: 426 cm
+Smoke Level: 321 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:55
+Temperature: 147 °C
+Water Level: 149 cm
+Smoke Level: 102 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:36:56
+Temperature: 332 °C
+Water Level: 430 cm
+Smoke Level: 323 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:00
+Temperature: 149 °C
+Water Level: 150 cm
+Smoke Level: 104 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:01
+Temperature: 333 °C
+Water Level: 430 cm
+Smoke Level: 323 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:05
+Temperature: 147 °C
+Water Level: 150 cm
+Smoke Level: 105 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:06
+Temperature: 335 °C
+Water Level: 430 cm
+Smoke Level: 324 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:10
+Temperature: 148 °C
+Water Level: 154 cm
+Smoke Level: 105 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:11
+Temperature: 334 °C
+Water Level: 434 cm
+Smoke Level: 327 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:15
+Temperature: 148 °C
+Water Level: 156 cm
+Smoke Level: 107 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:16
+Temperature: 336 °C
+Water Level: 438 cm
+Smoke Level: 327 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:20
+Temperature: 152 °C
+Water Level: 157 cm
+Smoke Level: 110 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:21
+Temperature: 339 °C
+Water Level: 442 cm
+Smoke Level: 328 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:25
+Temperature: 155 °C
+Water Level: 161 cm
+Smoke Level: 111 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:26
+Temperature: 337 °C
+Water Level: 443 cm
+Smoke Level: 329 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:30
+Temperature: 154 °C
+Water Level: 164 cm
+Smoke Level: 111 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:31
+Temperature: 336 °C
+Water Level: 445 cm
+Smoke Level: 331 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:35
+Temperature: 157 °C
+Water Level: 167 cm
+Smoke Level: 111 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:36
+Temperature: 336 °C
+Water Level: 449 cm
+Smoke Level: 331 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:40
+Temperature: 161 °C
+Water Level: 170 cm
+Smoke Level: 113 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:41
+Temperature: 341 °C
+Water Level: 451 cm
+Smoke Level: 331 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:45
+Temperature: 163 °C
+Water Level: 173 cm
+Smoke Level: 113 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:46
+Temperature: 343 °C
+Water Level: 453 cm
+Smoke Level: 334 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:50
+Temperature: 167 °C
+Water Level: 174 cm
+Smoke Level: 113 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:51
+Temperature: 348 °C
+Water Level: 454 cm
+Smoke Level: 335 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:55
+Temperature: 165 °C
+Water Level: 175 cm
+Smoke Level: 114 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:37:56
+Temperature: 351 °C
+Water Level: 457 cm
+Smoke Level: 338 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:00
+Temperature: 169 °C
+Water Level: 177 cm
+Smoke Level: 115 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:01
+Temperature: 354 °C
+Water Level: 457 cm
+Smoke Level: 340 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:05
+Temperature: 172 °C
+Water Level: 180 cm
+Smoke Level: 117 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:06
+Temperature: 355 °C
+Water Level: 458 cm
+Smoke Level: 340 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:10
+Temperature: 173 °C
+Water Level: 181 cm
+Smoke Level: 118 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:11
+Temperature: 357 °C
+Water Level: 461 cm
+Smoke Level: 343 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:15
+Temperature: 173 °C
+Water Level: 184 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:16
+Temperature: 356 °C
+Water Level: 463 cm
+Smoke Level: 344 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:20
+Temperature: 174 °C
+Water Level: 187 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:21
+Temperature: 356 °C
+Water Level: 467 cm
+Smoke Level: 347 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:25
+Temperature: 174 °C
+Water Level: 190 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:26
+Temperature: 355 °C
+Water Level: 471 cm
+Smoke Level: 347 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:30
+Temperature: 172 °C
+Water Level: 194 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:31
+Temperature: 355 °C
+Water Level: 472 cm
+Smoke Level: 347 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:35
+Temperature: 171 °C
+Water Level: 195 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:36
+Temperature: 359 °C
+Water Level: 472 cm
+Smoke Level: 348 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:40
+Temperature: 169 °C
+Water Level: 195 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:41
+Temperature: 364 °C
+Water Level: 472 cm
+Smoke Level: 350 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:45
+Temperature: 168 °C
+Water Level: 199 cm
+Smoke Level: 119 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:46
+Temperature: 369 °C
+Water Level: 476 cm
+Smoke Level: 353 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:50
+Temperature: 167 °C
+Water Level: 200 cm
+Smoke Level: 120 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:51
+Temperature: 370 °C
+Water Level: 480 cm
+Smoke Level: 356 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:55
+Temperature: 169 °C
+Water Level: 204 cm
+Smoke Level: 123 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:38:56
+Temperature: 375 °C
+Water Level: 480 cm
+Smoke Level: 356 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:00
+Temperature: 168 °C
+Water Level: 206 cm
+Smoke Level: 123 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:01
+Temperature: 380 °C
+Water Level: 482 cm
+Smoke Level: 359 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:05
+Temperature: 171 °C
+Water Level: 206 cm
+Smoke Level: 126 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:06
+Temperature: 385 °C
+Water Level: 486 cm
+Smoke Level: 359 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:10
+Temperature: 173 °C
+Water Level: 206 cm
+Smoke Level: 129 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:11
+Temperature: 389 °C
+Water Level: 486 cm
+Smoke Level: 359 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:15
+Temperature: 171 °C
+Water Level: 206 cm
+Smoke Level: 129 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:16
+Temperature: 390 °C
+Water Level: 489 cm
+Smoke Level: 362 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:20
+Temperature: 169 °C
+Water Level: 208 cm
+Smoke Level: 130 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:21
+Temperature: 392 °C
+Water Level: 492 cm
+Smoke Level: 364 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:25
+Temperature: 173 °C
+Water Level: 212 cm
+Smoke Level: 132 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:26
+Temperature: 397 °C
+Water Level: 495 cm
+Smoke Level: 366 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:30
+Temperature: 177 °C
+Water Level: 212 cm
+Smoke Level: 132 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:31
+Temperature: 398 °C
+Water Level: 498 cm
+Smoke Level: 369 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:35
+Temperature: 178 °C
+Water Level: 213 cm
+Smoke Level: 132 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:36
+Temperature: 397 °C
+Water Level: 501 cm
+Smoke Level: 370 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:40
+Temperature: 177 °C
+Water Level: 216 cm
+Smoke Level: 133 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:41
+Temperature: 395 °C
+Water Level: 501 cm
+Smoke Level: 373 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:45
+Temperature: 175 °C
+Water Level: 219 cm
+Smoke Level: 135 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:46
+Temperature: 400 °C
+Water Level: 502 cm
+Smoke Level: 374 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:50
+Temperature: 175 °C
+Water Level: 223 cm
+Smoke Level: 137 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:51
+Temperature: 398 °C
+Water Level: 505 cm
+Smoke Level: 374 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:55
+Temperature: 175 °C
+Water Level: 226 cm
+Smoke Level: 138 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:39:56
+Temperature: 396 °C
+Water Level: 505 cm
+Smoke Level: 376 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:00
+Temperature: 179 °C
+Water Level: 229 cm
+Smoke Level: 141 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:01
+Temperature: 398 °C
+Water Level: 507 cm
+Smoke Level: 376 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:05
+Temperature: 184 °C
+Water Level: 232 cm
+Smoke Level: 143 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:06
+Temperature: 399 °C
+Water Level: 509 cm
+Smoke Level: 377 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:10
+Temperature: 185 °C
+Water Level: 234 cm
+Smoke Level: 145 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:11
+Temperature: 400 °C
+Water Level: 512 cm
+Smoke Level: 380 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:15
+Temperature: 184 °C
+Water Level: 234 cm
+Smoke Level: 148 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:16
+Temperature: 403 °C
+Water Level: 515 cm
+Smoke Level: 382 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:20
+Temperature: 183 °C
+Water Level: 234 cm
+Smoke Level: 150 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:21
+Temperature: 403 °C
+Water Level: 515 cm
+Smoke Level: 383 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:25
+Temperature: 187 °C
+Water Level: 238 cm
+Smoke Level: 152 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:26
+Temperature: 403 °C
+Water Level: 518 cm
+Smoke Level: 384 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:30
+Temperature: 191 °C
+Water Level: 238 cm
+Smoke Level: 153 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:31
+Temperature: 402 °C
+Water Level: 518 cm
+Smoke Level: 385 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:35
+Temperature: 191 °C
+Water Level: 241 cm
+Smoke Level: 156 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:36
+Temperature: 402 °C
+Water Level: 519 cm
+Smoke Level: 386 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:40
+Temperature: 190 °C
+Water Level: 245 cm
+Smoke Level: 156 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:41
+Temperature: 407 °C
+Water Level: 520 cm
+Smoke Level: 386 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:45
+Temperature: 191 °C
+Water Level: 247 cm
+Smoke Level: 159 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:46
+Temperature: 407 °C
+Water Level: 524 cm
+Smoke Level: 386 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:50
+Temperature: 193 °C
+Water Level: 248 cm
+Smoke Level: 161 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:51
+Temperature: 410 °C
+Water Level: 527 cm
+Smoke Level: 386 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:55
+Temperature: 197 °C
+Water Level: 248 cm
+Smoke Level: 162 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:40:56
+Temperature: 415 °C
+Water Level: 531 cm
+Smoke Level: 387 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:00
+Temperature: 201 °C
+Water Level: 249 cm
+Smoke Level: 164 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:01
+Temperature: 420 °C
+Water Level: 532 cm
+Smoke Level: 389 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:05
+Temperature: 200 °C
+Water Level: 250 cm
+Smoke Level: 165 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:06
+Temperature: 425 °C
+Water Level: 535 cm
+Smoke Level: 389 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:10
+Temperature: 198 °C
+Water Level: 254 cm
+Smoke Level: 168 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:11
+Temperature: 427 °C
+Water Level: 535 cm
+Smoke Level: 392 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:15
+Temperature: 196 °C
+Water Level: 258 cm
+Smoke Level: 171 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:16
+Temperature: 427 °C
+Water Level: 537 cm
+Smoke Level: 393 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:20
+Temperature: 195 °C
+Water Level: 262 cm
+Smoke Level: 174 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:21
+Temperature: 428 °C
+Water Level: 537 cm
+Smoke Level: 394 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:25
+Temperature: 194 °C
+Water Level: 265 cm
+Smoke Level: 176 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:26
+Temperature: 429 °C
+Water Level: 537 cm
+Smoke Level: 395 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:30
+Temperature: 197 °C
+Water Level: 267 cm
+Smoke Level: 178 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:31
+Temperature: 434 °C
+Water Level: 539 cm
+Smoke Level: 396 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:35
+Temperature: 196 °C
+Water Level: 268 cm
+Smoke Level: 178 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:36
+Temperature: 435 °C
+Water Level: 542 cm
+Smoke Level: 398 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:40
+Temperature: 200 °C
+Water Level: 269 cm
+Smoke Level: 179 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:41
+Temperature: 436 °C
+Water Level: 546 cm
+Smoke Level: 400 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:45
+Temperature: 198 °C
+Water Level: 271 cm
+Smoke Level: 180 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:46
+Temperature: 435 °C
+Water Level: 548 cm
+Smoke Level: 401 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:50
+Temperature: 198 °C
+Water Level: 271 cm
+Smoke Level: 182 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:51
+Temperature: 437 °C
+Water Level: 548 cm
+Smoke Level: 404 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:55
+Temperature: 201 °C
+Water Level: 271 cm
+Smoke Level: 182 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:41:56
+Temperature: 438 °C
+Water Level: 548 cm
+Smoke Level: 404 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:00
+Temperature: 205 °C
+Water Level: 274 cm
+Smoke Level: 182 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:01
+Temperature: 441 °C
+Water Level: 552 cm
+Smoke Level: 406 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:05
+Temperature: 206 °C
+Water Level: 275 cm
+Smoke Level: 184 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:06
+Temperature: 439 °C
+Water Level: 553 cm
+Smoke Level: 406 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:10
+Temperature: 210 °C
+Water Level: 277 cm
+Smoke Level: 184 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:11
+Temperature: 439 °C
+Water Level: 554 cm
+Smoke Level: 406 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:15
+Temperature: 210 °C
+Water Level: 279 cm
+Smoke Level: 184 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:16
+Temperature: 438 °C
+Water Level: 556 cm
+Smoke Level: 408 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:20
+Temperature: 208 °C
+Water Level: 280 cm
+Smoke Level: 184 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:21
+Temperature: 439 °C
+Water Level: 558 cm
+Smoke Level: 408 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:25
+Temperature: 208 °C
+Water Level: 283 cm
+Smoke Level: 184 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:26
+Temperature: 444 °C
+Water Level: 559 cm
+Smoke Level: 409 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:30
+Temperature: 209 °C
+Water Level: 284 cm
+Smoke Level: 187 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:31
+Temperature: 442 °C
+Water Level: 562 cm
+Smoke Level: 409 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:35
+Temperature: 209 °C
+Water Level: 288 cm
+Smoke Level: 188 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:36
+Temperature: 443 °C
+Water Level: 565 cm
+Smoke Level: 409 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:40
+Temperature: 214 °C
+Water Level: 289 cm
+Smoke Level: 188 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:41
+Temperature: 445 °C
+Water Level: 567 cm
+Smoke Level: 409 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:45
+Temperature: 219 °C
+Water Level: 293 cm
+Smoke Level: 191 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:46
+Temperature: 448 °C
+Water Level: 568 cm
+Smoke Level: 412 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:50
+Temperature: 220 °C
+Water Level: 295 cm
+Smoke Level: 193 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:51
+Temperature: 449 °C
+Water Level: 569 cm
+Smoke Level: 413 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:55
+Temperature: 223 °C
+Water Level: 295 cm
+Smoke Level: 196 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:42:56
+Temperature: 450 °C
+Water Level: 571 cm
+Smoke Level: 414 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:00
+Temperature: 228 °C
+Water Level: 298 cm
+Smoke Level: 197 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:01
+Temperature: 448 °C
+Water Level: 574 cm
+Smoke Level: 417 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:05
+Temperature: 228 °C
+Water Level: 298 cm
+Smoke Level: 200 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:06
+Temperature: 448 °C
+Water Level: 577 cm
+Smoke Level: 420 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:10
+Temperature: 229 °C
+Water Level: 298 cm
+Smoke Level: 203 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:11
+Temperature: 446 °C
+Water Level: 579 cm
+Smoke Level: 423 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:15
+Temperature: 229 °C
+Water Level: 300 cm
+Smoke Level: 205 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:16
+Temperature: 446 °C
+Water Level: 583 cm
+Smoke Level: 426 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:20
+Temperature: 231 °C
+Water Level: 304 cm
+Smoke Level: 207 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:21
+Temperature: 448 °C
+Water Level: 583 cm
+Smoke Level: 426 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:25
+Temperature: 230 °C
+Water Level: 304 cm
+Smoke Level: 208 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:26
+Temperature: 451 °C
+Water Level: 586 cm
+Smoke Level: 428 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:30
+Temperature: 232 °C
+Water Level: 305 cm
+Smoke Level: 210 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:31
+Temperature: 454 °C
+Water Level: 588 cm
+Smoke Level: 429 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:35
+Temperature: 235 °C
+Water Level: 306 cm
+Smoke Level: 210 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:36
+Temperature: 455 °C
+Water Level: 588 cm
+Smoke Level: 429 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:40
+Temperature: 238 °C
+Water Level: 308 cm
+Smoke Level: 213 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:41
+Temperature: 455 °C
+Water Level: 588 cm
+Smoke Level: 429 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:45
+Temperature: 239 °C
+Water Level: 312 cm
+Smoke Level: 215 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:46
+Temperature: 458 °C
+Water Level: 588 cm
+Smoke Level: 430 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:50
+Temperature: 242 °C
+Water Level: 314 cm
+Smoke Level: 217 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:51
+Temperature: 462 °C
+Water Level: 590 cm
+Smoke Level: 431 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:55
+Temperature: 245 °C
+Water Level: 314 cm
+Smoke Level: 217 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:43:56
+Temperature: 466 °C
+Water Level: 592 cm
+Smoke Level: 432 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:00
+Temperature: 245 °C
+Water Level: 315 cm
+Smoke Level: 219 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:01
+Temperature: 468 °C
+Water Level: 596 cm
+Smoke Level: 433 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:05
+Temperature: 244 °C
+Water Level: 315 cm
+Smoke Level: 222 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:06
+Temperature: 472 °C
+Water Level: 598 cm
+Smoke Level: 433 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:10
+Temperature: 243 °C
+Water Level: 316 cm
+Smoke Level: 224 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:11
+Temperature: 477 °C
+Water Level: 599 cm
+Smoke Level: 435 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:15
+Temperature: 245 °C
+Water Level: 317 cm
+Smoke Level: 224 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:16
+Temperature: 479 °C
+Water Level: 603 cm
+Smoke Level: 435 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:20
+Temperature: 248 °C
+Water Level: 318 cm
+Smoke Level: 227 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:21
+Temperature: 477 °C
+Water Level: 604 cm
+Smoke Level: 437 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:25
+Temperature: 253 °C
+Water Level: 322 cm
+Smoke Level: 229 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:26
+Temperature: 475 °C
+Water Level: 605 cm
+Smoke Level: 440 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:30
+Temperature: 253 °C
+Water Level: 325 cm
+Smoke Level: 229 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:31
+Temperature: 479 °C
+Water Level: 605 cm
+Smoke Level: 440 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:35
+Temperature: 252 °C
+Water Level: 329 cm
+Smoke Level: 229 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:36
+Temperature: 479 °C
+Water Level: 606 cm
+Smoke Level: 441 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:40
+Temperature: 253 °C
+Water Level: 329 cm
+Smoke Level: 232 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:41
+Temperature: 481 °C
+Water Level: 608 cm
+Smoke Level: 443 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:45
+Temperature: 253 °C
+Water Level: 329 cm
+Smoke Level: 234 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:46
+Temperature: 485 °C
+Water Level: 610 cm
+Smoke Level: 446 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:50
+Temperature: 253 °C
+Water Level: 330 cm
+Smoke Level: 235 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:51
+Temperature: 489 °C
+Water Level: 613 cm
+Smoke Level: 447 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:55
+Temperature: 257 °C
+Water Level: 332 cm
+Smoke Level: 237 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:44:56
+Temperature: 492 °C
+Water Level: 615 cm
+Smoke Level: 448 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:00
+Temperature: 255 °C
+Water Level: 336 cm
+Smoke Level: 238 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:01
+Temperature: 496 °C
+Water Level: 616 cm
+Smoke Level: 448 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:05
+Temperature: 259 °C
+Water Level: 337 cm
+Smoke Level: 241 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:06
+Temperature: 494 °C
+Water Level: 620 cm
+Smoke Level: 448 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:10
+Temperature: 262 °C
+Water Level: 338 cm
+Smoke Level: 243 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:11
+Temperature: 496 °C
+Water Level: 621 cm
+Smoke Level: 448 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:15
+Temperature: 263 °C
+Water Level: 340 cm
+Smoke Level: 243 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:16
+Temperature: 499 °C
+Water Level: 622 cm
+Smoke Level: 448 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:20
+Temperature: 266 °C
+Water Level: 343 cm
+Smoke Level: 246 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:21
+Temperature: 499 °C
+Water Level: 625 cm
+Smoke Level: 450 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:25
+Temperature: 269 °C
+Water Level: 346 cm
+Smoke Level: 248 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:26
+Temperature: 498 °C
+Water Level: 629 cm
+Smoke Level: 451 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:30
+Temperature: 271 °C
+Water Level: 350 cm
+Smoke Level: 249 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:31
+Temperature: 497 °C
+Water Level: 632 cm
+Smoke Level: 454 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:35
+Temperature: 270 °C
+Water Level: 350 cm
+Smoke Level: 250 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:36
+Temperature: 500 °C
+Water Level: 633 cm
+Smoke Level: 454 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:40
+Temperature: 272 °C
+Water Level: 350 cm
+Smoke Level: 250 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:41
+Temperature: 501 °C
+Water Level: 634 cm
+Smoke Level: 454 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:45
+Temperature: 277 °C
+Water Level: 354 cm
+Smoke Level: 251 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:46
+Temperature: 503 °C
+Water Level: 634 cm
+Smoke Level: 454 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:50
+Temperature: 279 °C
+Water Level: 356 cm
+Smoke Level: 252 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:51
+Temperature: 508 °C
+Water Level: 636 cm
+Smoke Level: 455 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:55
+Temperature: 277 °C
+Water Level: 358 cm
+Smoke Level: 252 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:45:56
+Temperature: 512 °C
+Water Level: 639 cm
+Smoke Level: 455 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:00
+Temperature: 281 °C
+Water Level: 362 cm
+Smoke Level: 254 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:01
+Temperature: 515 °C
+Water Level: 643 cm
+Smoke Level: 457 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:05
+Temperature: 285 °C
+Water Level: 364 cm
+Smoke Level: 257 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:06
+Temperature: 514 °C
+Water Level: 643 cm
+Smoke Level: 458 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:10
+Temperature: 290 °C
+Water Level: 365 cm
+Smoke Level: 258 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:11
+Temperature: 515 °C
+Water Level: 646 cm
+Smoke Level: 458 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:15
+Temperature: 295 °C
+Water Level: 366 cm
+Smoke Level: 258 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:16
+Temperature: 517 °C
+Water Level: 650 cm
+Smoke Level: 460 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:20
+Temperature: 299 °C
+Water Level: 370 cm
+Smoke Level: 258 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:21
+Temperature: 519 °C
+Water Level: 653 cm
+Smoke Level: 463 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:25
+Temperature: 300 °C
+Water Level: 371 cm
+Smoke Level: 259 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:26
+Temperature: 523 °C
+Water Level: 653 cm
+Smoke Level: 466 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:30
+Temperature: 298 °C
+Water Level: 372 cm
+Smoke Level: 262 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:31
+Temperature: 521 °C
+Water Level: 654 cm
+Smoke Level: 466 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:35
+Temperature: 297 °C
+Water Level: 373 cm
+Smoke Level: 264 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:36
+Temperature: 520 °C
+Water Level: 656 cm
+Smoke Level: 467 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:40
+Temperature: 296 °C
+Water Level: 373 cm
+Smoke Level: 266 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:41
+Temperature: 525 °C
+Water Level: 659 cm
+Smoke Level: 469 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:45
+Temperature: 298 °C
+Water Level: 376 cm
+Smoke Level: 268 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:46
+Temperature: 526 °C
+Water Level: 663 cm
+Smoke Level: 469 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:50
+Temperature: 297 °C
+Water Level: 380 cm
+Smoke Level: 268 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:51
+Temperature: 530 °C
+Water Level: 666 cm
+Smoke Level: 471 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:55
+Temperature: 297 °C
+Water Level: 380 cm
+Smoke Level: 270 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:46:56
+Temperature: 534 °C
+Water Level: 666 cm
+Smoke Level: 472 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:00
+Temperature: 296 °C
+Water Level: 381 cm
+Smoke Level: 272 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:01
+Temperature: 533 °C
+Water Level: 666 cm
+Smoke Level: 475 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:05
+Temperature: 299 °C
+Water Level: 381 cm
+Smoke Level: 274 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:06
+Temperature: 534 °C
+Water Level: 666 cm
+Smoke Level: 478 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:10
+Temperature: 299 °C
+Water Level: 382 cm
+Smoke Level: 277 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:11
+Temperature: 535 °C
+Water Level: 667 cm
+Smoke Level: 481 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:15
+Temperature: 301 °C
+Water Level: 385 cm
+Smoke Level: 279 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:16
+Temperature: 533 °C
+Water Level: 669 cm
+Smoke Level: 483 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:20
+Temperature: 306 °C
+Water Level: 385 cm
+Smoke Level: 281 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:21
+Temperature: 533 °C
+Water Level: 669 cm
+Smoke Level: 486 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:25
+Temperature: 305 °C
+Water Level: 389 cm
+Smoke Level: 282 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:26
+Temperature: 537 °C
+Water Level: 670 cm
+Smoke Level: 487 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:30
+Temperature: 304 °C
+Water Level: 389 cm
+Smoke Level: 282 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:31
+Temperature: 535 °C
+Water Level: 674 cm
+Smoke Level: 489 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:35
+Temperature: 307 °C
+Water Level: 389 cm
+Smoke Level: 282 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:36
+Temperature: 535 °C
+Water Level: 678 cm
+Smoke Level: 492 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:40
+Temperature: 305 °C
+Water Level: 389 cm
+Smoke Level: 284 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:41
+Temperature: 536 °C
+Water Level: 680 cm
+Smoke Level: 494 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:45
+Temperature: 307 °C
+Water Level: 392 cm
+Smoke Level: 287 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:46
+Temperature: 538 °C
+Water Level: 680 cm
+Smoke Level: 495 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:50
+Temperature: 310 °C
+Water Level: 396 cm
+Smoke Level: 290 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:51
+Temperature: 542 °C
+Water Level: 680 cm
+Smoke Level: 498 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:55
+Temperature: 315 °C
+Water Level: 399 cm
+Smoke Level: 290 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:47:56
+Temperature: 540 °C
+Water Level: 684 cm
+Smoke Level: 500 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:00
+Temperature: 317 °C
+Water Level: 400 cm
+Smoke Level: 293 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:01
+Temperature: 538 °C
+Water Level: 684 cm
+Smoke Level: 503 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:05
+Temperature: 321 °C
+Water Level: 404 cm
+Smoke Level: 294 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:06
+Temperature: 538 °C
+Water Level: 688 cm
+Smoke Level: 505 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:10
+Temperature: 323 °C
+Water Level: 405 cm
+Smoke Level: 294 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:11
+Temperature: 536 °C
+Water Level: 692 cm
+Smoke Level: 508 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:15
+Temperature: 325 °C
+Water Level: 405 cm
+Smoke Level: 295 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:16
+Temperature: 539 °C
+Water Level: 693 cm
+Smoke Level: 509 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:20
+Temperature: 327 °C
+Water Level: 408 cm
+Smoke Level: 295 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:21
+Temperature: 543 °C
+Water Level: 694 cm
+Smoke Level: 510 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:25
+Temperature: 328 °C
+Water Level: 412 cm
+Smoke Level: 296 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:26
+Temperature: 548 °C
+Water Level: 696 cm
+Smoke Level: 512 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:30
+Temperature: 331 °C
+Water Level: 413 cm
+Smoke Level: 298 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:31
+Temperature: 553 °C
+Water Level: 697 cm
+Smoke Level: 515 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:35
+Temperature: 331 °C
+Water Level: 414 cm
+Smoke Level: 298 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:36
+Temperature: 553 °C
+Water Level: 701 cm
+Smoke Level: 515 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:40
+Temperature: 334 °C
+Water Level: 417 cm
+Smoke Level: 300 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:41
+Temperature: 556 °C
+Water Level: 702 cm
+Smoke Level: 517 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:45
+Temperature: 338 °C
+Water Level: 418 cm
+Smoke Level: 303 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:46
+Temperature: 557 °C
+Water Level: 704 cm
+Smoke Level: 519 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:50
+Temperature: 338 °C
+Water Level: 419 cm
+Smoke Level: 306 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:51
+Temperature: 555 °C
+Water Level: 707 cm
+Smoke Level: 522 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:55
+Temperature: 338 °C
+Water Level: 419 cm
+Smoke Level: 307 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:48:56
+Temperature: 554 °C
+Water Level: 709 cm
+Smoke Level: 525 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:00
+Temperature: 338 °C
+Water Level: 421 cm
+Smoke Level: 307 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:01
+Temperature: 552 °C
+Water Level: 709 cm
+Smoke Level: 525 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:05
+Temperature: 341 °C
+Water Level: 421 cm
+Smoke Level: 310 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:06
+Temperature: 552 °C
+Water Level: 711 cm
+Smoke Level: 527 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:10
+Temperature: 343 °C
+Water Level: 423 cm
+Smoke Level: 312 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:11
+Temperature: 552 °C
+Water Level: 713 cm
+Smoke Level: 530 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:15
+Temperature: 348 °C
+Water Level: 424 cm
+Smoke Level: 314 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:16
+Temperature: 552 °C
+Water Level: 714 cm
+Smoke Level: 530 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:20
+Temperature: 353 °C
+Water Level: 425 cm
+Smoke Level: 317 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:21
+Temperature: 552 °C
+Water Level: 717 cm
+Smoke Level: 532 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:25
+Temperature: 355 °C
+Water Level: 429 cm
+Smoke Level: 317 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:26
+Temperature: 553 °C
+Water Level: 717 cm
+Smoke Level: 534 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:30
+Temperature: 356 °C
+Water Level: 433 cm
+Smoke Level: 317 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:31
+Temperature: 556 °C
+Water Level: 720 cm
+Smoke Level: 536 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:35
+Temperature: 361 °C
+Water Level: 436 cm
+Smoke Level: 317 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:36
+Temperature: 561 °C
+Water Level: 720 cm
+Smoke Level: 536 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:40
+Temperature: 364 °C
+Water Level: 437 cm
+Smoke Level: 320 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:41
+Temperature: 560 °C
+Water Level: 720 cm
+Smoke Level: 538 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:45
+Temperature: 363 °C
+Water Level: 439 cm
+Smoke Level: 322 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:46
+Temperature: 561 °C
+Water Level: 724 cm
+Smoke Level: 538 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:50
+Temperature: 367 °C
+Water Level: 439 cm
+Smoke Level: 322 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:51
+Temperature: 561 °C
+Water Level: 726 cm
+Smoke Level: 540 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:55
+Temperature: 371 °C
+Water Level: 440 cm
+Smoke Level: 322 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:49:56
+Temperature: 560 °C
+Water Level: 730 cm
+Smoke Level: 540 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:00
+Temperature: 375 °C
+Water Level: 441 cm
+Smoke Level: 324 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:01
+Temperature: 564 °C
+Water Level: 732 cm
+Smoke Level: 543 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:05
+Temperature: 373 °C
+Water Level: 445 cm
+Smoke Level: 324 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:06
+Temperature: 565 °C
+Water Level: 732 cm
+Smoke Level: 544 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:10
+Temperature: 375 °C
+Water Level: 447 cm
+Smoke Level: 324 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:11
+Temperature: 567 °C
+Water Level: 734 cm
+Smoke Level: 544 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:15
+Temperature: 373 °C
+Water Level: 449 cm
+Smoke Level: 324 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:16
+Temperature: 569 °C
+Water Level: 734 cm
+Smoke Level: 544 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:20
+Temperature: 371 °C
+Water Level: 451 cm
+Smoke Level: 326 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:21
+Temperature: 573 °C
+Water Level: 734 cm
+Smoke Level: 545 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:25
+Temperature: 373 °C
+Water Level: 453 cm
+Smoke Level: 327 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:26
+Temperature: 577 °C
+Water Level: 738 cm
+Smoke Level: 547 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:30
+Temperature: 373 °C
+Water Level: 457 cm
+Smoke Level: 329 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:31
+Temperature: 581 °C
+Water Level: 742 cm
+Smoke Level: 547 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:35
+Temperature: 372 °C
+Water Level: 461 cm
+Smoke Level: 329 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:36
+Temperature: 583 °C
+Water Level: 746 cm
+Smoke Level: 547 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:40
+Temperature: 372 °C
+Water Level: 461 cm
+Smoke Level: 330 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:41
+Temperature: 581 °C
+Water Level: 750 cm
+Smoke Level: 549 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:45
+Temperature: 376 °C
+Water Level: 463 cm
+Smoke Level: 333 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:46
+Temperature: 586 °C
+Water Level: 754 cm
+Smoke Level: 552 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:50
+Temperature: 375 °C
+Water Level: 464 cm
+Smoke Level: 336 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:51
+Temperature: 586 °C
+Water Level: 755 cm
+Smoke Level: 552 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:55
+Temperature: 379 °C
+Water Level: 468 cm
+Smoke Level: 337 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:50:56
+Temperature: 588 °C
+Water Level: 758 cm
+Smoke Level: 555 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:00
+Temperature: 382 °C
+Water Level: 472 cm
+Smoke Level: 338 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:01
+Temperature: 588 °C
+Water Level: 758 cm
+Smoke Level: 558 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:05
+Temperature: 382 °C
+Water Level: 472 cm
+Smoke Level: 341 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:06
+Temperature: 587 °C
+Water Level: 758 cm
+Smoke Level: 560 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:10
+Temperature: 385 °C
+Water Level: 473 cm
+Smoke Level: 342 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:11
+Temperature: 587 °C
+Water Level: 760 cm
+Smoke Level: 562 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:15
+Temperature: 387 °C
+Water Level: 473 cm
+Smoke Level: 345 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:16
+Temperature: 590 °C
+Water Level: 761 cm
+Smoke Level: 564 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:20
+Temperature: 389 °C
+Water Level: 476 cm
+Smoke Level: 345 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:21
+Temperature: 589 °C
+Water Level: 764 cm
+Smoke Level: 564 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:25
+Temperature: 394 °C
+Water Level: 478 cm
+Smoke Level: 348 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:26
+Temperature: 594 °C
+Water Level: 764 cm
+Smoke Level: 566 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:30
+Temperature: 397 °C
+Water Level: 480 cm
+Smoke Level: 350 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:31
+Temperature: 597 °C
+Water Level: 768 cm
+Smoke Level: 568 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:35
+Temperature: 395 °C
+Water Level: 484 cm
+Smoke Level: 352 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:36
+Temperature: 602 °C
+Water Level: 770 cm
+Smoke Level: 570 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:40
+Temperature: 398 °C
+Water Level: 487 cm
+Smoke Level: 353 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:41
+Temperature: 603 °C
+Water Level: 772 cm
+Smoke Level: 573 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:45
+Temperature: 403 °C
+Water Level: 490 cm
+Smoke Level: 353 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:46
+Temperature: 608 °C
+Water Level: 772 cm
+Smoke Level: 574 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:50
+Temperature: 406 °C
+Water Level: 492 cm
+Smoke Level: 356 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:51
+Temperature: 611 °C
+Water Level: 772 cm
+Smoke Level: 574 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:55
+Temperature: 411 °C
+Water Level: 492 cm
+Smoke Level: 359 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:51:56
+Temperature: 615 °C
+Water Level: 774 cm
+Smoke Level: 577 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:00
+Temperature: 415 °C
+Water Level: 492 cm
+Smoke Level: 359 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:01
+Temperature: 620 °C
+Water Level: 776 cm
+Smoke Level: 577 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:05
+Temperature: 416 °C
+Water Level: 496 cm
+Smoke Level: 361 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:06
+Temperature: 618 °C
+Water Level: 780 cm
+Smoke Level: 577 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:10
+Temperature: 415 °C
+Water Level: 496 cm
+Smoke Level: 361 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:11
+Temperature: 616 °C
+Water Level: 784 cm
+Smoke Level: 578 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:15
+Temperature: 416 °C
+Water Level: 497 cm
+Smoke Level: 361 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:16
+Temperature: 614 °C
+Water Level: 785 cm
+Smoke Level: 580 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:20
+Temperature: 420 °C
+Water Level: 498 cm
+Smoke Level: 361 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:21
+Temperature: 616 °C
+Water Level: 787 cm
+Smoke Level: 580 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:25
+Temperature: 422 °C
+Water Level: 498 cm
+Smoke Level: 364 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:26
+Temperature: 618 °C
+Water Level: 790 cm
+Smoke Level: 582 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:30
+Temperature: 420 °C
+Water Level: 501 cm
+Smoke Level: 366 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:31
+Temperature: 622 °C
+Water Level: 791 cm
+Smoke Level: 585 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:35
+Temperature: 422 °C
+Water Level: 503 cm
+Smoke Level: 368 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:36
+Temperature: 624 °C
+Water Level: 792 cm
+Smoke Level: 585 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:40
+Temperature: 425 °C
+Water Level: 507 cm
+Smoke Level: 371 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:41
+Temperature: 624 °C
+Water Level: 795 cm
+Smoke Level: 586 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:45
+Temperature: 426 °C
+Water Level: 508 cm
+Smoke Level: 374 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:46
+Temperature: 624 °C
+Water Level: 795 cm
+Smoke Level: 586 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:50
+Temperature: 426 °C
+Water Level: 510 cm
+Smoke Level: 377 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:51
+Temperature: 625 °C
+Water Level: 796 cm
+Smoke Level: 586 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:55
+Temperature: 430 °C
+Water Level: 513 cm
+Smoke Level: 380 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:52:56
+Temperature: 624 °C
+Water Level: 800 cm
+Smoke Level: 586 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:00
+Temperature: 428 °C
+Water Level: 513 cm
+Smoke Level: 383 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:01
+Temperature: 627 °C
+Water Level: 804 cm
+Smoke Level: 589 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:05
+Temperature: 426 °C
+Water Level: 515 cm
+Smoke Level: 383 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:06
+Temperature: 631 °C
+Water Level: 804 cm
+Smoke Level: 590 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:10
+Temperature: 424 °C
+Water Level: 516 cm
+Smoke Level: 384 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:11
+Temperature: 636 °C
+Water Level: 806 cm
+Smoke Level: 593 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:15
+Temperature: 426 °C
+Water Level: 516 cm
+Smoke Level: 387 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:16
+Temperature: 641 °C
+Water Level: 807 cm
+Smoke Level: 596 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:20
+Temperature: 424 °C
+Water Level: 516 cm
+Smoke Level: 390 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:21
+Temperature: 639 °C
+Water Level: 811 cm
+Smoke Level: 598 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:25
+Temperature: 422 °C
+Water Level: 518 cm
+Smoke Level: 393 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:26
+Temperature: 640 °C
+Water Level: 811 cm
+Smoke Level: 598 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:30
+Temperature: 427 °C
+Water Level: 520 cm
+Smoke Level: 394 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:31
+Temperature: 643 °C
+Water Level: 813 cm
+Smoke Level: 601 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:35
+Temperature: 428 °C
+Water Level: 521 cm
+Smoke Level: 395 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:36
+Temperature: 646 °C
+Water Level: 815 cm
+Smoke Level: 601 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:40
+Temperature: 432 °C
+Water Level: 524 cm
+Smoke Level: 396 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:41
+Temperature: 647 °C
+Water Level: 819 cm
+Smoke Level: 604 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:45
+Temperature: 435 °C
+Water Level: 528 cm
+Smoke Level: 396 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:46
+Temperature: 648 °C
+Water Level: 823 cm
+Smoke Level: 605 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:50
+Temperature: 434 °C
+Water Level: 528 cm
+Smoke Level: 399 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:51
+Temperature: 649 °C
+Water Level: 824 cm
+Smoke Level: 608 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:55
+Temperature: 435 °C
+Water Level: 529 cm
+Smoke Level: 400 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:53:56
+Temperature: 652 °C
+Water Level: 826 cm
+Smoke Level: 609 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:00
+Temperature: 437 °C
+Water Level: 532 cm
+Smoke Level: 401 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:01
+Temperature: 656 °C
+Water Level: 830 cm
+Smoke Level: 610 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:05
+Temperature: 440 °C
+Water Level: 532 cm
+Smoke Level: 404 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:06
+Temperature: 657 °C
+Water Level: 834 cm
+Smoke Level: 610 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:10
+Temperature: 438 °C
+Water Level: 535 cm
+Smoke Level: 406 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:11
+Temperature: 657 °C
+Water Level: 835 cm
+Smoke Level: 613 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:15
+Temperature: 438 °C
+Water Level: 538 cm
+Smoke Level: 408 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:16
+Temperature: 661 °C
+Water Level: 838 cm
+Smoke Level: 614 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:20
+Temperature: 439 °C
+Water Level: 538 cm
+Smoke Level: 411 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:21
+Temperature: 661 °C
+Water Level: 841 cm
+Smoke Level: 615 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:25
+Temperature: 438 °C
+Water Level: 541 cm
+Smoke Level: 413 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:26
+Temperature: 665 °C
+Water Level: 845 cm
+Smoke Level: 617 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:30
+Temperature: 439 °C
+Water Level: 541 cm
+Smoke Level: 414 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:31
+Temperature: 663 °C
+Water Level: 846 cm
+Smoke Level: 617 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:35
+Temperature: 444 °C
+Water Level: 544 cm
+Smoke Level: 415 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:36
+Temperature: 665 °C
+Water Level: 846 cm
+Smoke Level: 619 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:40
+Temperature: 448 °C
+Water Level: 546 cm
+Smoke Level: 417 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:41
+Temperature: 666 °C
+Water Level: 847 cm
+Smoke Level: 621 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:45
+Temperature: 450 °C
+Water Level: 547 cm
+Smoke Level: 417 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:46
+Temperature: 665 °C
+Water Level: 848 cm
+Smoke Level: 622 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:50
+Temperature: 448 °C
+Water Level: 547 cm
+Smoke Level: 418 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:51
+Temperature: 664 °C
+Water Level: 851 cm
+Smoke Level: 622 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:55
+Temperature: 449 °C
+Water Level: 551 cm
+Smoke Level: 419 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:54:56
+Temperature: 667 °C
+Water Level: 853 cm
+Smoke Level: 622 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:00
+Temperature: 453 °C
+Water Level: 554 cm
+Smoke Level: 420 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:01
+Temperature: 665 °C
+Water Level: 854 cm
+Smoke Level: 623 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:05
+Temperature: 453 °C
+Water Level: 558 cm
+Smoke Level: 423 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:06
+Temperature: 668 °C
+Water Level: 858 cm
+Smoke Level: 624 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:10
+Temperature: 456 °C
+Water Level: 561 cm
+Smoke Level: 426 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:11
+Temperature: 672 °C
+Water Level: 858 cm
+Smoke Level: 627 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:15
+Temperature: 457 °C
+Water Level: 562 cm
+Smoke Level: 429 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:16
+Temperature: 670 °C
+Water Level: 859 cm
+Smoke Level: 628 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:20
+Temperature: 455 °C
+Water Level: 564 cm
+Smoke Level: 431 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:21
+Temperature: 672 °C
+Water Level: 862 cm
+Smoke Level: 629 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:25
+Temperature: 459 °C
+Water Level: 568 cm
+Smoke Level: 433 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:26
+Temperature: 677 °C
+Water Level: 862 cm
+Smoke Level: 632 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:30
+Temperature: 458 °C
+Water Level: 571 cm
+Smoke Level: 434 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:31
+Temperature: 676 °C
+Water Level: 862 cm
+Smoke Level: 632 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:35
+Temperature: 462 °C
+Water Level: 571 cm
+Smoke Level: 435 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:36
+Temperature: 680 °C
+Water Level: 864 cm
+Smoke Level: 635 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:40
+Temperature: 460 °C
+Water Level: 571 cm
+Smoke Level: 438 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:41
+Temperature: 681 °C
+Water Level: 867 cm
+Smoke Level: 636 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:45
+Temperature: 459 °C
+Water Level: 573 cm
+Smoke Level: 439 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:46
+Temperature: 686 °C
+Water Level: 871 cm
+Smoke Level: 636 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:50
+Temperature: 458 °C
+Water Level: 574 cm
+Smoke Level: 439 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:51
+Temperature: 686 °C
+Water Level: 872 cm
+Smoke Level: 639 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:55
+Temperature: 456 °C
+Water Level: 578 cm
+Smoke Level: 439 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:55:56
+Temperature: 690 °C
+Water Level: 875 cm
+Smoke Level: 639 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:00
+Temperature: 456 °C
+Water Level: 581 cm
+Smoke Level: 439 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:01
+Temperature: 693 °C
+Water Level: 878 cm
+Smoke Level: 639 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:05
+Temperature: 461 °C
+Water Level: 585 cm
+Smoke Level: 440 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:06
+Temperature: 695 °C
+Water Level: 882 cm
+Smoke Level: 641 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:10
+Temperature: 465 °C
+Water Level: 586 cm
+Smoke Level: 442 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:11
+Temperature: 694 °C
+Water Level: 884 cm
+Smoke Level: 642 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:15
+Temperature: 464 °C
+Water Level: 586 cm
+Smoke Level: 442 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:16
+Temperature: 692 °C
+Water Level: 887 cm
+Smoke Level: 643 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:20
+Temperature: 465 °C
+Water Level: 588 cm
+Smoke Level: 445 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:21
+Temperature: 695 °C
+Water Level: 887 cm
+Smoke Level: 643 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:25
+Temperature: 465 °C
+Water Level: 591 cm
+Smoke Level: 446 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:26
+Temperature: 693 °C
+Water Level: 889 cm
+Smoke Level: 643 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:30
+Temperature: 464 °C
+Water Level: 592 cm
+Smoke Level: 446 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:31
+Temperature: 693 °C
+Water Level: 892 cm
+Smoke Level: 643 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:35
+Temperature: 463 °C
+Water Level: 593 cm
+Smoke Level: 446 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:36
+Temperature: 692 °C
+Water Level: 896 cm
+Smoke Level: 645 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:40
+Temperature: 461 °C
+Water Level: 597 cm
+Smoke Level: 447 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:41
+Temperature: 692 °C
+Water Level: 898 cm
+Smoke Level: 645 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:45
+Temperature: 463 °C
+Water Level: 598 cm
+Smoke Level: 449 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:46
+Temperature: 696 °C
+Water Level: 902 cm
+Smoke Level: 647 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:50
+Temperature: 468 °C
+Water Level: 602 cm
+Smoke Level: 452 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:51
+Temperature: 699 °C
+Water Level: 903 cm
+Smoke Level: 650 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:55
+Temperature: 466 °C
+Water Level: 602 cm
+Smoke Level: 454 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:56:56
+Temperature: 702 °C
+Water Level: 903 cm
+Smoke Level: 651 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:00
+Temperature: 464 °C
+Water Level: 602 cm
+Smoke Level: 454 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:01
+Temperature: 703 °C
+Water Level: 906 cm
+Smoke Level: 652 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:05
+Temperature: 468 °C
+Water Level: 603 cm
+Smoke Level: 456 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:06
+Temperature: 703 °C
+Water Level: 907 cm
+Smoke Level: 655 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:10
+Temperature: 466 °C
+Water Level: 604 cm
+Smoke Level: 459 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:11
+Temperature: 707 °C
+Water Level: 907 cm
+Smoke Level: 658 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:15
+Temperature: 464 °C
+Water Level: 605 cm
+Smoke Level: 462 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:16
+Temperature: 710 °C
+Water Level: 908 cm
+Smoke Level: 659 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:20
+Temperature: 463 °C
+Water Level: 607 cm
+Smoke Level: 465 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:21
+Temperature: 712 °C
+Water Level: 908 cm
+Smoke Level: 662 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:25
+Temperature: 466 °C
+Water Level: 607 cm
+Smoke Level: 467 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:26
+Temperature: 711 °C
+Water Level: 910 cm
+Smoke Level: 664 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:30
+Temperature: 469 °C
+Water Level: 611 cm
+Smoke Level: 467 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:31
+Temperature: 710 °C
+Water Level: 912 cm
+Smoke Level: 666 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:35
+Temperature: 467 °C
+Water Level: 613 cm
+Smoke Level: 468 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:36
+Temperature: 712 °C
+Water Level: 913 cm
+Smoke Level: 667 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:40
+Temperature: 472 °C
+Water Level: 614 cm
+Smoke Level: 468 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:41
+Temperature: 717 °C
+Water Level: 914 cm
+Smoke Level: 670 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:45
+Temperature: 473 °C
+Water Level: 616 cm
+Smoke Level: 468 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:46
+Temperature: 716 °C
+Water Level: 916 cm
+Smoke Level: 671 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:50
+Temperature: 475 °C
+Water Level: 617 cm
+Smoke Level: 471 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:51
+Temperature: 717 °C
+Water Level: 917 cm
+Smoke Level: 671 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:55
+Temperature: 479 °C
+Water Level: 619 cm
+Smoke Level: 471 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:57:56
+Temperature: 719 °C
+Water Level: 921 cm
+Smoke Level: 671 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:00
+Temperature: 477 °C
+Water Level: 620 cm
+Smoke Level: 471 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:01
+Temperature: 722 °C
+Water Level: 925 cm
+Smoke Level: 674 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:05
+Temperature: 476 °C
+Water Level: 620 cm
+Smoke Level: 474 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:06
+Temperature: 727 °C
+Water Level: 927 cm
+Smoke Level: 676 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:10
+Temperature: 477 °C
+Water Level: 624 cm
+Smoke Level: 475 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:11
+Temperature: 727 °C
+Water Level: 931 cm
+Smoke Level: 676 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:15
+Temperature: 480 °C
+Water Level: 624 cm
+Smoke Level: 477 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:16
+Temperature: 731 °C
+Water Level: 931 cm
+Smoke Level: 677 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:20
+Temperature: 484 °C
+Water Level: 626 cm
+Smoke Level: 478 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:21
+Temperature: 731 °C
+Water Level: 935 cm
+Smoke Level: 679 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:25
+Temperature: 486 °C
+Water Level: 630 cm
+Smoke Level: 481 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:26
+Temperature: 729 °C
+Water Level: 936 cm
+Smoke Level: 679 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:30
+Temperature: 491 °C
+Water Level: 633 cm
+Smoke Level: 482 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:31
+Temperature: 729 °C
+Water Level: 938 cm
+Smoke Level: 680 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:35
+Temperature: 490 °C
+Water Level: 634 cm
+Smoke Level: 483 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:36
+Temperature: 733 °C
+Water Level: 941 cm
+Smoke Level: 680 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:40
+Temperature: 490 °C
+Water Level: 636 cm
+Smoke Level: 485 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:41
+Temperature: 736 °C
+Water Level: 945 cm
+Smoke Level: 680 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:45
+Temperature: 493 °C
+Water Level: 636 cm
+Smoke Level: 487 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:46
+Temperature: 734 °C
+Water Level: 946 cm
+Smoke Level: 682 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:50
+Temperature: 497 °C
+Water Level: 639 cm
+Smoke Level: 490 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:51
+Temperature: 732 °C
+Water Level: 950 cm
+Smoke Level: 683 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:55
+Temperature: 496 °C
+Water Level: 642 cm
+Smoke Level: 492 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:58:56
+Temperature: 730 °C
+Water Level: 950 cm
+Smoke Level: 684 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:00
+Temperature: 500 °C
+Water Level: 645 cm
+Smoke Level: 492 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:01
+Temperature: 729 °C
+Water Level: 954 cm
+Smoke Level: 686 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:05
+Temperature: 500 °C
+Water Level: 646 cm
+Smoke Level: 494 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:06
+Temperature: 728 °C
+Water Level: 958 cm
+Smoke Level: 686 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:10
+Temperature: 504 °C
+Water Level: 648 cm
+Smoke Level: 494 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:11
+Temperature: 732 °C
+Water Level: 958 cm
+Smoke Level: 689 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:15
+Temperature: 505 °C
+Water Level: 652 cm
+Smoke Level: 496 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:16
+Temperature: 737 °C
+Water Level: 962 cm
+Smoke Level: 689 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:20
+Temperature: 509 °C
+Water Level: 654 cm
+Smoke Level: 496 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:21
+Temperature: 739 °C
+Water Level: 963 cm
+Smoke Level: 692 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:25
+Temperature: 511 °C
+Water Level: 657 cm
+Smoke Level: 498 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:26
+Temperature: 741 °C
+Water Level: 964 cm
+Smoke Level: 692 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:30
+Temperature: 512 °C
+Water Level: 657 cm
+Smoke Level: 501 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:31
+Temperature: 740 °C
+Water Level: 966 cm
+Smoke Level: 692 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:35
+Temperature: 510 °C
+Water Level: 658 cm
+Smoke Level: 504 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:36
+Temperature: 744 °C
+Water Level: 966 cm
+Smoke Level: 694 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:40
+Temperature: 513 °C
+Water Level: 662 cm
+Smoke Level: 505 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:41
+Temperature: 747 °C
+Water Level: 970 cm
+Smoke Level: 695 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:45
+Temperature: 511 °C
+Water Level: 665 cm
+Smoke Level: 506 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:46
+Temperature: 751 °C
+Water Level: 971 cm
+Smoke Level: 695 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:50
+Temperature: 509 °C
+Water Level: 669 cm
+Smoke Level: 506 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:51
+Temperature: 755 °C
+Water Level: 971 cm
+Smoke Level: 698 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:55
+Temperature: 510 °C
+Water Level: 671 cm
+Smoke Level: 508 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 00:59:56
+Temperature: 757 °C
+Water Level: 974 cm
+Smoke Level: 698 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:00
+Temperature: 514 °C
+Water Level: 672 cm
+Smoke Level: 509 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:01
+Temperature: 761 °C
+Water Level: 975 cm
+Smoke Level: 698 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:05
+Temperature: 514 °C
+Water Level: 672 cm
+Smoke Level: 511 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:06
+Temperature: 761 °C
+Water Level: 976 cm
+Smoke Level: 701 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:10
+Temperature: 516 °C
+Water Level: 672 cm
+Smoke Level: 514 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:11
+Temperature: 761 °C
+Water Level: 976 cm
+Smoke Level: 701 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:15
+Temperature: 515 °C
+Water Level: 673 cm
+Smoke Level: 515 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:16
+Temperature: 766 °C
+Water Level: 979 cm
+Smoke Level: 701 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:20
+Temperature: 514 °C
+Water Level: 673 cm
+Smoke Level: 516 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:21
+Temperature: 766 °C
+Water Level: 980 cm
+Smoke Level: 704 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:25
+Temperature: 517 °C
+Water Level: 677 cm
+Smoke Level: 516 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:26
+Temperature: 769 °C
+Water Level: 982 cm
+Smoke Level: 704 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:30
+Temperature: 519 °C
+Water Level: 679 cm
+Smoke Level: 516 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:31
+Temperature: 771 °C
+Water Level: 984 cm
+Smoke Level: 707 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:35
+Temperature: 519 °C
+Water Level: 682 cm
+Smoke Level: 516 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:36
+Temperature: 772 °C
+Water Level: 988 cm
+Smoke Level: 710 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:40
+Temperature: 519 °C
+Water Level: 685 cm
+Smoke Level: 518 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:41
+Temperature: 772 °C
+Water Level: 992 cm
+Smoke Level: 713 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:45
+Temperature: 519 °C
+Water Level: 689 cm
+Smoke Level: 520 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:46
+Temperature: 776 °C
+Water Level: 994 cm
+Smoke Level: 714 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:50
+Temperature: 522 °C
+Water Level: 692 cm
+Smoke Level: 521 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:51
+Temperature: 774 °C
+Water Level: 998 cm
+Smoke Level: 715 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:55
+Temperature: 523 °C
+Water Level: 694 cm
+Smoke Level: 524 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:00:56
+Temperature: 779 °C
+Water Level: 999 cm
+Smoke Level: 716 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:00
+Temperature: 525 °C
+Water Level: 698 cm
+Smoke Level: 527 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:01
+Temperature: 784 °C
+Water Level: 1001 cm
+Smoke Level: 716 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:05
+Temperature: 529 °C
+Water Level: 700 cm
+Smoke Level: 528 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:06
+Temperature: 782 °C
+Water Level: 1001 cm
+Smoke Level: 716 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:10
+Temperature: 529 °C
+Water Level: 704 cm
+Smoke Level: 531 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:11
+Temperature: 783 °C
+Water Level: 1002 cm
+Smoke Level: 716 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:15
+Temperature: 529 °C
+Water Level: 706 cm
+Smoke Level: 532 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:16
+Temperature: 782 °C
+Water Level: 1005 cm
+Smoke Level: 716 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:20
+Temperature: 530 °C
+Water Level: 710 cm
+Smoke Level: 535 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:21
+Temperature: 783 °C
+Water Level: 1005 cm
+Smoke Level: 719 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:25
+Temperature: 535 °C
+Water Level: 712 cm
+Smoke Level: 537 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:26
+Temperature: 781 °C
+Water Level: 1005 cm
+Smoke Level: 719 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:30
+Temperature: 539 °C
+Water Level: 715 cm
+Smoke Level: 540 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:31
+Temperature: 785 °C
+Water Level: 1009 cm
+Smoke Level: 719 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:35
+Temperature: 537 °C
+Water Level: 717 cm
+Smoke Level: 541 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:36
+Temperature: 783 °C
+Water Level: 1011 cm
+Smoke Level: 721 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:40
+Temperature: 541 °C
+Water Level: 717 cm
+Smoke Level: 541 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:41
+Temperature: 784 °C
+Water Level: 1013 cm
+Smoke Level: 723 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:45
+Temperature: 542 °C
+Water Level: 717 cm
+Smoke Level: 541 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:46
+Temperature: 784 °C
+Water Level: 1014 cm
+Smoke Level: 723 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:50
+Temperature: 542 °C
+Water Level: 718 cm
+Smoke Level: 541 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:51
+Temperature: 788 °C
+Water Level: 1014 cm
+Smoke Level: 724 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:55
+Temperature: 541 °C
+Water Level: 720 cm
+Smoke Level: 543 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:01:56
+Temperature: 788 °C
+Water Level: 1015 cm
+Smoke Level: 726 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:00
+Temperature: 542 °C
+Water Level: 722 cm
+Smoke Level: 545 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:01
+Temperature: 790 °C
+Water Level: 1015 cm
+Smoke Level: 726 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:05
+Temperature: 540 °C
+Water Level: 724 cm
+Smoke Level: 548 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:06
+Temperature: 789 °C
+Water Level: 1019 cm
+Smoke Level: 726 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:10
+Temperature: 538 °C
+Water Level: 725 cm
+Smoke Level: 548 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:11
+Temperature: 793 °C
+Water Level: 1022 cm
+Smoke Level: 729 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:15
+Temperature: 540 °C
+Water Level: 728 cm
+Smoke Level: 548 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:16
+Temperature: 798 °C
+Water Level: 1022 cm
+Smoke Level: 730 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:20
+Temperature: 538 °C
+Water Level: 730 cm
+Smoke Level: 548 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:21
+Temperature: 800 °C
+Water Level: 1024 cm
+Smoke Level: 731 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:25
+Temperature: 543 °C
+Water Level: 733 cm
+Smoke Level: 549 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:26
+Temperature: 799 °C
+Water Level: 1024 cm
+Smoke Level: 733 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:30
+Temperature: 547 °C
+Water Level: 736 cm
+Smoke Level: 549 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:31
+Temperature: 799 °C
+Water Level: 1028 cm
+Smoke Level: 736 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:35
+Temperature: 546 °C
+Water Level: 739 cm
+Smoke Level: 550 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:36
+Temperature: 797 °C
+Water Level: 1029 cm
+Smoke Level: 737 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:40
+Temperature: 548 °C
+Water Level: 742 cm
+Smoke Level: 551 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:41
+Temperature: 797 °C
+Water Level: 1033 cm
+Smoke Level: 739 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:45
+Temperature: 553 °C
+Water Level: 744 cm
+Smoke Level: 552 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:46
+Temperature: 799 °C
+Water Level: 1034 cm
+Smoke Level: 741 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:50
+Temperature: 554 °C
+Water Level: 745 cm
+Smoke Level: 554 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:51
+Temperature: 802 °C
+Water Level: 1038 cm
+Smoke Level: 744 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:55
+Temperature: 558 °C
+Water Level: 747 cm
+Smoke Level: 554 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:02:56
+Temperature: 807 °C
+Water Level: 1039 cm
+Smoke Level: 746 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:00
+Temperature: 562 °C
+Water Level: 750 cm
+Smoke Level: 555 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:01
+Temperature: 805 °C
+Water Level: 1040 cm
+Smoke Level: 749 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:05
+Temperature: 563 °C
+Water Level: 753 cm
+Smoke Level: 557 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:06
+Temperature: 803 °C
+Water Level: 1044 cm
+Smoke Level: 750 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:10
+Temperature: 564 °C
+Water Level: 757 cm
+Smoke Level: 558 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:11
+Temperature: 802 °C
+Water Level: 1045 cm
+Smoke Level: 751 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:15
+Temperature: 564 °C
+Water Level: 759 cm
+Smoke Level: 558 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:16
+Temperature: 803 °C
+Water Level: 1048 cm
+Smoke Level: 751 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:20
+Temperature: 568 °C
+Water Level: 761 cm
+Smoke Level: 559 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:21
+Temperature: 801 °C
+Water Level: 1048 cm
+Smoke Level: 751 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:25
+Temperature: 568 °C
+Water Level: 765 cm
+Smoke Level: 562 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:26
+Temperature: 805 °C
+Water Level: 1050 cm
+Smoke Level: 754 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:30
+Temperature: 567 °C
+Water Level: 769 cm
+Smoke Level: 564 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:31
+Temperature: 806 °C
+Water Level: 1050 cm
+Smoke Level: 754 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:35
+Temperature: 569 °C
+Water Level: 773 cm
+Smoke Level: 566 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:36
+Temperature: 806 °C
+Water Level: 1054 cm
+Smoke Level: 757 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:40
+Temperature: 573 °C
+Water Level: 776 cm
+Smoke Level: 569 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:41
+Temperature: 806 °C
+Water Level: 1056 cm
+Smoke Level: 758 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:45
+Temperature: 576 °C
+Water Level: 779 cm
+Smoke Level: 569 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:46
+Temperature: 810 °C
+Water Level: 1057 cm
+Smoke Level: 760 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:50
+Temperature: 576 °C
+Water Level: 780 cm
+Smoke Level: 572 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:51
+Temperature: 808 °C
+Water Level: 1058 cm
+Smoke Level: 762 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:55
+Temperature: 577 °C
+Water Level: 784 cm
+Smoke Level: 573 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:03:56
+Temperature: 810 °C
+Water Level: 1059 cm
+Smoke Level: 762 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:00
+Temperature: 578 °C
+Water Level: 784 cm
+Smoke Level: 576 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:01
+Temperature: 811 °C
+Water Level: 1061 cm
+Smoke Level: 762 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:05
+Temperature: 582 °C
+Water Level: 788 cm
+Smoke Level: 579 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:06
+Temperature: 812 °C
+Water Level: 1061 cm
+Smoke Level: 762 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:10
+Temperature: 586 °C
+Water Level: 789 cm
+Smoke Level: 579 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:11
+Temperature: 817 °C
+Water Level: 1063 cm
+Smoke Level: 762 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:15
+Temperature: 591 °C
+Water Level: 792 cm
+Smoke Level: 581 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:16
+Temperature: 815 °C
+Water Level: 1067 cm
+Smoke Level: 765 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:20
+Temperature: 593 °C
+Water Level: 794 cm
+Smoke Level: 583 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:21
+Temperature: 818 °C
+Water Level: 1067 cm
+Smoke Level: 766 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:25
+Temperature: 595 °C
+Water Level: 798 cm
+Smoke Level: 585 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:26
+Temperature: 822 °C
+Water Level: 1067 cm
+Smoke Level: 767 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:30
+Temperature: 596 °C
+Water Level: 798 cm
+Smoke Level: 587 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:31
+Temperature: 826 °C
+Water Level: 1071 cm
+Smoke Level: 768 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:35
+Temperature: 594 °C
+Water Level: 800 cm
+Smoke Level: 590 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:36
+Temperature: 827 °C
+Water Level: 1071 cm
+Smoke Level: 769 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:40
+Temperature: 592 °C
+Water Level: 800 cm
+Smoke Level: 590 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:41
+Temperature: 825 °C
+Water Level: 1071 cm
+Smoke Level: 772 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:45
+Temperature: 590 °C
+Water Level: 802 cm
+Smoke Level: 590 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:46
+Temperature: 825 °C
+Water Level: 1072 cm
+Smoke Level: 774 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:50
+Temperature: 591 °C
+Water Level: 802 cm
+Smoke Level: 593 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:51
+Temperature: 825 °C
+Water Level: 1072 cm
+Smoke Level: 776 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:55
+Temperature: 596 °C
+Water Level: 802 cm
+Smoke Level: 594 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:04:56
+Temperature: 823 °C
+Water Level: 1075 cm
+Smoke Level: 776 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:00
+Temperature: 601 °C
+Water Level: 805 cm
+Smoke Level: 595 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:01
+Temperature: 827 °C
+Water Level: 1078 cm
+Smoke Level: 778 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:05
+Temperature: 601 °C
+Water Level: 808 cm
+Smoke Level: 598 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:06
+Temperature: 825 °C
+Water Level: 1081 cm
+Smoke Level: 779 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:10
+Temperature: 603 °C
+Water Level: 810 cm
+Smoke Level: 599 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:11
+Temperature: 828 °C
+Water Level: 1081 cm
+Smoke Level: 782 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:15
+Temperature: 607 °C
+Water Level: 810 cm
+Smoke Level: 601 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:16
+Temperature: 832 °C
+Water Level: 1082 cm
+Smoke Level: 783 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:20
+Temperature: 609 °C
+Water Level: 813 cm
+Smoke Level: 604 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:21
+Temperature: 836 °C
+Water Level: 1082 cm
+Smoke Level: 784 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:25
+Temperature: 613 °C
+Water Level: 815 cm
+Smoke Level: 606 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:26
+Temperature: 841 °C
+Water Level: 1086 cm
+Smoke Level: 785 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:30
+Temperature: 613 °C
+Water Level: 816 cm
+Smoke Level: 607 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:31
+Temperature: 842 °C
+Water Level: 1088 cm
+Smoke Level: 786 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:35
+Temperature: 612 °C
+Water Level: 817 cm
+Smoke Level: 608 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:36
+Temperature: 845 °C
+Water Level: 1089 cm
+Smoke Level: 788 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:40
+Temperature: 612 °C
+Water Level: 817 cm
+Smoke Level: 608 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:41
+Temperature: 844 °C
+Water Level: 1093 cm
+Smoke Level: 790 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:45
+Temperature: 614 °C
+Water Level: 819 cm
+Smoke Level: 609 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:46
+Temperature: 849 °C
+Water Level: 1097 cm
+Smoke Level: 793 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:50
+Temperature: 615 °C
+Water Level: 820 cm
+Smoke Level: 611 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:51
+Temperature: 850 °C
+Water Level: 1099 cm
+Smoke Level: 796 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:55
+Temperature: 614 °C
+Water Level: 823 cm
+Smoke Level: 611 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:05:56
+Temperature: 851 °C
+Water Level: 1100 cm
+Smoke Level: 796 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:00
+Temperature: 618 °C
+Water Level: 826 cm
+Smoke Level: 611 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:01
+Temperature: 855 °C
+Water Level: 1102 cm
+Smoke Level: 799 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:05
+Temperature: 621 °C
+Water Level: 828 cm
+Smoke Level: 612 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:06
+Temperature: 853 °C
+Water Level: 1102 cm
+Smoke Level: 799 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:10
+Temperature: 623 °C
+Water Level: 832 cm
+Smoke Level: 614 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:11
+Temperature: 854 °C
+Water Level: 1105 cm
+Smoke Level: 799 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:15
+Temperature: 627 °C
+Water Level: 832 cm
+Smoke Level: 616 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:16
+Temperature: 852 °C
+Water Level: 1108 cm
+Smoke Level: 802 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:20
+Temperature: 630 °C
+Water Level: 836 cm
+Smoke Level: 616 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:21
+Temperature: 856 °C
+Water Level: 1110 cm
+Smoke Level: 805 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:25
+Temperature: 631 °C
+Water Level: 839 cm
+Smoke Level: 617 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:26
+Temperature: 854 °C
+Water Level: 1110 cm
+Smoke Level: 806 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:30
+Temperature: 632 °C
+Water Level: 842 cm
+Smoke Level: 617 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:31
+Temperature: 858 °C
+Water Level: 1110 cm
+Smoke Level: 809 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:35
+Temperature: 631 °C
+Water Level: 843 cm
+Smoke Level: 617 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:36
+Temperature: 860 °C
+Water Level: 1114 cm
+Smoke Level: 811 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:40
+Temperature: 636 °C
+Water Level: 847 cm
+Smoke Level: 619 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:41
+Temperature: 858 °C
+Water Level: 1116 cm
+Smoke Level: 814 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:45
+Temperature: 635 °C
+Water Level: 848 cm
+Smoke Level: 622 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:46
+Temperature: 857 °C
+Water Level: 1118 cm
+Smoke Level: 816 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:50
+Temperature: 635 °C
+Water Level: 851 cm
+Smoke Level: 622 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:51
+Temperature: 858 °C
+Water Level: 1118 cm
+Smoke Level: 818 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:55
+Temperature: 640 °C
+Water Level: 852 cm
+Smoke Level: 623 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:06:56
+Temperature: 861 °C
+Water Level: 1119 cm
+Smoke Level: 818 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:00
+Temperature: 642 °C
+Water Level: 855 cm
+Smoke Level: 623 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:01
+Temperature: 864 °C
+Water Level: 1120 cm
+Smoke Level: 821 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:05
+Temperature: 640 °C
+Water Level: 857 cm
+Smoke Level: 624 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:06
+Temperature: 865 °C
+Water Level: 1120 cm
+Smoke Level: 821 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:10
+Temperature: 639 °C
+Water Level: 860 cm
+Smoke Level: 627 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:11
+Temperature: 865 °C
+Water Level: 1124 cm
+Smoke Level: 821 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:15
+Temperature: 643 °C
+Water Level: 861 cm
+Smoke Level: 629 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:16
+Temperature: 865 °C
+Water Level: 1128 cm
+Smoke Level: 821 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:20
+Temperature: 643 °C
+Water Level: 862 cm
+Smoke Level: 630 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:21
+Temperature: 866 °C
+Water Level: 1131 cm
+Smoke Level: 822 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:25
+Temperature: 646 °C
+Water Level: 864 cm
+Smoke Level: 631 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:26
+Temperature: 864 °C
+Water Level: 1134 cm
+Smoke Level: 822 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:30
+Temperature: 650 °C
+Water Level: 868 cm
+Smoke Level: 634 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:31
+Temperature: 866 °C
+Water Level: 1137 cm
+Smoke Level: 825 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:35
+Temperature: 655 °C
+Water Level: 871 cm
+Smoke Level: 636 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:36
+Temperature: 867 °C
+Water Level: 1137 cm
+Smoke Level: 827 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:40
+Temperature: 654 °C
+Water Level: 875 cm
+Smoke Level: 636 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:41
+Temperature: 871 °C
+Water Level: 1138 cm
+Smoke Level: 830 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:45
+Temperature: 656 °C
+Water Level: 877 cm
+Smoke Level: 637 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:46
+Temperature: 875 °C
+Water Level: 1142 cm
+Smoke Level: 831 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:50
+Temperature: 659 °C
+Water Level: 881 cm
+Smoke Level: 640 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:51
+Temperature: 873 °C
+Water Level: 1143 cm
+Smoke Level: 833 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:55
+Temperature: 661 °C
+Water Level: 885 cm
+Smoke Level: 641 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:07:56
+Temperature: 877 °C
+Water Level: 1145 cm
+Smoke Level: 833 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:00
+Temperature: 659 °C
+Water Level: 885 cm
+Smoke Level: 643 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:01
+Temperature: 879 °C
+Water Level: 1148 cm
+Smoke Level: 835 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:05
+Temperature: 658 °C
+Water Level: 887 cm
+Smoke Level: 643 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:06
+Temperature: 880 °C
+Water Level: 1149 cm
+Smoke Level: 837 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:10
+Temperature: 662 °C
+Water Level: 889 cm
+Smoke Level: 646 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:11
+Temperature: 885 °C
+Water Level: 1153 cm
+Smoke Level: 839 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:15
+Temperature: 664 °C
+Water Level: 893 cm
+Smoke Level: 649 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:16
+Temperature: 885 °C
+Water Level: 1155 cm
+Smoke Level: 840 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:20
+Temperature: 667 °C
+Water Level: 893 cm
+Smoke Level: 650 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:21
+Temperature: 884 °C
+Water Level: 1155 cm
+Smoke Level: 841 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:25
+Temperature: 672 °C
+Water Level: 894 cm
+Smoke Level: 652 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:26
+Temperature: 885 °C
+Water Level: 1155 cm
+Smoke Level: 844 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:30
+Temperature: 673 °C
+Water Level: 896 cm
+Smoke Level: 652 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:31
+Temperature: 884 °C
+Water Level: 1157 cm
+Smoke Level: 847 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:35
+Temperature: 677 °C
+Water Level: 896 cm
+Smoke Level: 653 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:36
+Temperature: 887 °C
+Water Level: 1159 cm
+Smoke Level: 847 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:40
+Temperature: 676 °C
+Water Level: 897 cm
+Smoke Level: 656 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:41
+Temperature: 890 °C
+Water Level: 1160 cm
+Smoke Level: 849 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:45
+Temperature: 681 °C
+Water Level: 897 cm
+Smoke Level: 658 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:46
+Temperature: 891 °C
+Water Level: 1162 cm
+Smoke Level: 852 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:50
+Temperature: 683 °C
+Water Level: 900 cm
+Smoke Level: 659 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:51
+Temperature: 895 °C
+Water Level: 1165 cm
+Smoke Level: 853 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:55
+Temperature: 682 °C
+Water Level: 901 cm
+Smoke Level: 659 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:08:56
+Temperature: 898 °C
+Water Level: 1166 cm
+Smoke Level: 853 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:00
+Temperature: 687 °C
+Water Level: 903 cm
+Smoke Level: 662 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:01
+Temperature: 901 °C
+Water Level: 1169 cm
+Smoke Level: 855 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:05
+Temperature: 691 °C
+Water Level: 903 cm
+Smoke Level: 665 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:06
+Temperature: 904 °C
+Water Level: 1171 cm
+Smoke Level: 855 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:10
+Temperature: 689 °C
+Water Level: 905 cm
+Smoke Level: 666 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:11
+Temperature: 905 °C
+Water Level: 1171 cm
+Smoke Level: 856 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:15
+Temperature: 691 °C
+Water Level: 905 cm
+Smoke Level: 666 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:16
+Temperature: 906 °C
+Water Level: 1173 cm
+Smoke Level: 856 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:20
+Temperature: 690 °C
+Water Level: 905 cm
+Smoke Level: 666 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:21
+Temperature: 905 °C
+Water Level: 1173 cm
+Smoke Level: 857 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:25
+Temperature: 695 °C
+Water Level: 905 cm
+Smoke Level: 668 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:26
+Temperature: 906 °C
+Water Level: 1174 cm
+Smoke Level: 857 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:30
+Temperature: 695 °C
+Water Level: 907 cm
+Smoke Level: 671 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:31
+Temperature: 910 °C
+Water Level: 1178 cm
+Smoke Level: 858 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:35
+Temperature: 700 °C
+Water Level: 907 cm
+Smoke Level: 672 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:36
+Temperature: 913 °C
+Water Level: 1182 cm
+Smoke Level: 859 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:40
+Temperature: 702 °C
+Water Level: 908 cm
+Smoke Level: 672 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:41
+Temperature: 912 °C
+Water Level: 1186 cm
+Smoke Level: 861 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:45
+Temperature: 707 °C
+Water Level: 909 cm
+Smoke Level: 674 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:46
+Temperature: 916 °C
+Water Level: 1190 cm
+Smoke Level: 861 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:50
+Temperature: 708 °C
+Water Level: 909 cm
+Smoke Level: 675 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:51
+Temperature: 918 °C
+Water Level: 1193 cm
+Smoke Level: 863 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:55
+Temperature: 706 °C
+Water Level: 912 cm
+Smoke Level: 678 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:09:56
+Temperature: 918 °C
+Water Level: 1195 cm
+Smoke Level: 864 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:00
+Temperature: 706 °C
+Water Level: 915 cm
+Smoke Level: 678 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:01
+Temperature: 920 °C
+Water Level: 1199 cm
+Smoke Level: 864 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:05
+Temperature: 706 °C
+Water Level: 917 cm
+Smoke Level: 680 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:06
+Temperature: 925 °C
+Water Level: 1201 cm
+Smoke Level: 865 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:10
+Temperature: 704 °C
+Water Level: 919 cm
+Smoke Level: 680 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:11
+Temperature: 926 °C
+Water Level: 1202 cm
+Smoke Level: 868 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:15
+Temperature: 705 °C
+Water Level: 921 cm
+Smoke Level: 680 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:16
+Temperature: 929 °C
+Water Level: 1203 cm
+Smoke Level: 871 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:20
+Temperature: 706 °C
+Water Level: 921 cm
+Smoke Level: 681 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:21
+Temperature: 929 °C
+Water Level: 1206 cm
+Smoke Level: 874 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:25
+Temperature: 706 °C
+Water Level: 925 cm
+Smoke Level: 681 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:26
+Temperature: 932 °C
+Water Level: 1207 cm
+Smoke Level: 877 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:30
+Temperature: 710 °C
+Water Level: 928 cm
+Smoke Level: 684 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:31
+Temperature: 937 °C
+Water Level: 1209 cm
+Smoke Level: 877 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:35
+Temperature: 715 °C
+Water Level: 928 cm
+Smoke Level: 687 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:36
+Temperature: 939 °C
+Water Level: 1213 cm
+Smoke Level: 878 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:40
+Temperature: 718 °C
+Water Level: 930 cm
+Smoke Level: 687 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:41
+Temperature: 942 °C
+Water Level: 1216 cm
+Smoke Level: 881 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:45
+Temperature: 723 °C
+Water Level: 930 cm
+Smoke Level: 689 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:46
+Temperature: 943 °C
+Water Level: 1220 cm
+Smoke Level: 881 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:50
+Temperature: 722 °C
+Water Level: 933 cm
+Smoke Level: 691 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:51
+Temperature: 948 °C
+Water Level: 1222 cm
+Smoke Level: 881 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:55
+Temperature: 726 °C
+Water Level: 934 cm
+Smoke Level: 694 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:10:56
+Temperature: 947 °C
+Water Level: 1223 cm
+Smoke Level: 882 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:00
+Temperature: 729 °C
+Water Level: 934 cm
+Smoke Level: 697 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:01
+Temperature: 952 °C
+Water Level: 1225 cm
+Smoke Level: 885 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:05
+Temperature: 731 °C
+Water Level: 937 cm
+Smoke Level: 697 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:06
+Temperature: 957 °C
+Water Level: 1228 cm
+Smoke Level: 888 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:10
+Temperature: 734 °C
+Water Level: 940 cm
+Smoke Level: 697 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:11
+Temperature: 962 °C
+Water Level: 1232 cm
+Smoke Level: 890 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:15
+Temperature: 732 °C
+Water Level: 942 cm
+Smoke Level: 699 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:16
+Temperature: 961 °C
+Water Level: 1233 cm
+Smoke Level: 890 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:20
+Temperature: 731 °C
+Water Level: 942 cm
+Smoke Level: 700 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:21
+Temperature: 963 °C
+Water Level: 1234 cm
+Smoke Level: 892 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:25
+Temperature: 735 °C
+Water Level: 945 cm
+Smoke Level: 703 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:26
+Temperature: 964 °C
+Water Level: 1238 cm
+Smoke Level: 892 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:30
+Temperature: 738 °C
+Water Level: 949 cm
+Smoke Level: 705 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:31
+Temperature: 962 °C
+Water Level: 1242 cm
+Smoke Level: 894 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:35
+Temperature: 742 °C
+Water Level: 952 cm
+Smoke Level: 707 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:36
+Temperature: 962 °C
+Water Level: 1245 cm
+Smoke Level: 895 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:40
+Temperature: 746 °C
+Water Level: 954 cm
+Smoke Level: 709 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:41
+Temperature: 962 °C
+Water Level: 1245 cm
+Smoke Level: 895 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:45
+Temperature: 745 °C
+Water Level: 955 cm
+Smoke Level: 710 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:46
+Temperature: 966 °C
+Water Level: 1248 cm
+Smoke Level: 897 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:50
+Temperature: 748 °C
+Water Level: 958 cm
+Smoke Level: 710 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:51
+Temperature: 966 °C
+Water Level: 1250 cm
+Smoke Level: 898 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:55
+Temperature: 746 °C
+Water Level: 962 cm
+Smoke Level: 710 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:11:56
+Temperature: 964 °C
+Water Level: 1252 cm
+Smoke Level: 901 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:00
+Temperature: 749 °C
+Water Level: 963 cm
+Smoke Level: 710 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:01
+Temperature: 965 °C
+Water Level: 1256 cm
+Smoke Level: 904 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:05
+Temperature: 751 °C
+Water Level: 967 cm
+Smoke Level: 712 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:06
+Temperature: 963 °C
+Water Level: 1260 cm
+Smoke Level: 904 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:10
+Temperature: 751 °C
+Water Level: 968 cm
+Smoke Level: 713 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:11
+Temperature: 968 °C
+Water Level: 1261 cm
+Smoke Level: 905 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:15
+Temperature: 755 °C
+Water Level: 972 cm
+Smoke Level: 713 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:16
+Temperature: 970 °C
+Water Level: 1265 cm
+Smoke Level: 906 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:20
+Temperature: 755 °C
+Water Level: 976 cm
+Smoke Level: 716 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:21
+Temperature: 968 °C
+Water Level: 1267 cm
+Smoke Level: 907 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:25
+Temperature: 757 °C
+Water Level: 977 cm
+Smoke Level: 719 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:26
+Temperature: 971 °C
+Water Level: 1268 cm
+Smoke Level: 909 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:30
+Temperature: 759 °C
+Water Level: 981 cm
+Smoke Level: 719 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:31
+Temperature: 972 °C
+Water Level: 1272 cm
+Smoke Level: 912 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:35
+Temperature: 760 °C
+Water Level: 984 cm
+Smoke Level: 722 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:36
+Temperature: 975 °C
+Water Level: 1272 cm
+Smoke Level: 912 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:40
+Temperature: 762 °C
+Water Level: 986 cm
+Smoke Level: 722 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:41
+Temperature: 980 °C
+Water Level: 1273 cm
+Smoke Level: 913 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:45
+Temperature: 760 °C
+Water Level: 989 cm
+Smoke Level: 722 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:46
+Temperature: 983 °C
+Water Level: 1276 cm
+Smoke Level: 916 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:50
+Temperature: 762 °C
+Water Level: 989 cm
+Smoke Level: 725 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:51
+Temperature: 988 °C
+Water Level: 1277 cm
+Smoke Level: 916 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:55
+Temperature: 760 °C
+Water Level: 990 cm
+Smoke Level: 725 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:12:56
+Temperature: 993 °C
+Water Level: 1279 cm
+Smoke Level: 919 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:00
+Temperature: 760 °C
+Water Level: 994 cm
+Smoke Level: 726 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:01
+Temperature: 992 °C
+Water Level: 1281 cm
+Smoke Level: 921 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:05
+Temperature: 763 °C
+Water Level: 995 cm
+Smoke Level: 729 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:06
+Temperature: 993 °C
+Water Level: 1283 cm
+Smoke Level: 921 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:10
+Temperature: 764 °C
+Water Level: 995 cm
+Smoke Level: 730 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:11
+Temperature: 993 °C
+Water Level: 1283 cm
+Smoke Level: 923 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:15
+Temperature: 766 °C
+Water Level: 996 cm
+Smoke Level: 733 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:16
+Temperature: 991 °C
+Water Level: 1284 cm
+Smoke Level: 923 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:20
+Temperature: 770 °C
+Water Level: 999 cm
+Smoke Level: 733 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:21
+Temperature: 995 °C
+Water Level: 1284 cm
+Smoke Level: 924 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:25
+Temperature: 774 °C
+Water Level: 1002 cm
+Smoke Level: 734 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:26
+Temperature: 999 °C
+Water Level: 1284 cm
+Smoke Level: 927 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:30
+Temperature: 775 °C
+Water Level: 1004 cm
+Smoke Level: 736 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:31
+Temperature: 1004 °C
+Water Level: 1287 cm
+Smoke Level: 927 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:35
+Temperature: 775 °C
+Water Level: 1004 cm
+Smoke Level: 737 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:36
+Temperature: 1006 °C
+Water Level: 1289 cm
+Smoke Level: 929 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:40
+Temperature: 779 °C
+Water Level: 1006 cm
+Smoke Level: 740 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:41
+Temperature: 1007 °C
+Water Level: 1293 cm
+Smoke Level: 931 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:45
+Temperature: 781 °C
+Water Level: 1010 cm
+Smoke Level: 742 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:46
+Temperature: 1011 °C
+Water Level: 1296 cm
+Smoke Level: 933 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:50
+Temperature: 779 °C
+Water Level: 1013 cm
+Smoke Level: 745 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:51
+Temperature: 1014 °C
+Water Level: 1298 cm
+Smoke Level: 933 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:55
+Temperature: 777 °C
+Water Level: 1013 cm
+Smoke Level: 745 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:13:56
+Temperature: 1012 °C
+Water Level: 1300 cm
+Smoke Level: 934 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:00
+Temperature: 781 °C
+Water Level: 1015 cm
+Smoke Level: 747 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:01
+Temperature: 1012 °C
+Water Level: 1303 cm
+Smoke Level: 937 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:05
+Temperature: 781 °C
+Water Level: 1018 cm
+Smoke Level: 749 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:06
+Temperature: 1012 °C
+Water Level: 1306 cm
+Smoke Level: 937 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:10
+Temperature: 784 °C
+Water Level: 1020 cm
+Smoke Level: 751 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:11
+Temperature: 1015 °C
+Water Level: 1309 cm
+Smoke Level: 940 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:15
+Temperature: 785 °C
+Water Level: 1020 cm
+Smoke Level: 753 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:16
+Temperature: 1020 °C
+Water Level: 1313 cm
+Smoke Level: 940 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:20
+Temperature: 787 °C
+Water Level: 1023 cm
+Smoke Level: 756 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:21
+Temperature: 1018 °C
+Water Level: 1313 cm
+Smoke Level: 941 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:25
+Temperature: 788 °C
+Water Level: 1026 cm
+Smoke Level: 758 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:26
+Temperature: 1016 °C
+Water Level: 1314 cm
+Smoke Level: 942 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:30
+Temperature: 789 °C
+Water Level: 1027 cm
+Smoke Level: 759 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:31
+Temperature: 1014 °C
+Water Level: 1318 cm
+Smoke Level: 944 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:35
+Temperature: 788 °C
+Water Level: 1027 cm
+Smoke Level: 762 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:36
+Temperature: 1017 °C
+Water Level: 1320 cm
+Smoke Level: 944 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:40
+Temperature: 789 °C
+Water Level: 1030 cm
+Smoke Level: 765 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:41
+Temperature: 1021 °C
+Water Level: 1324 cm
+Smoke Level: 947 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:45
+Temperature: 788 °C
+Water Level: 1030 cm
+Smoke Level: 768 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:46
+Temperature: 1024 °C
+Water Level: 1327 cm
+Smoke Level: 948 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:50
+Temperature: 786 °C
+Water Level: 1032 cm
+Smoke Level: 770 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:51
+Temperature: 1024 °C
+Water Level: 1329 cm
+Smoke Level: 951 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:55
+Temperature: 788 °C
+Water Level: 1032 cm
+Smoke Level: 770 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:14:56
+Temperature: 1023 °C
+Water Level: 1333 cm
+Smoke Level: 954 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:00
+Temperature: 788 °C
+Water Level: 1033 cm
+Smoke Level: 772 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:01
+Temperature: 1023 °C
+Water Level: 1335 cm
+Smoke Level: 954 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:05
+Temperature: 790 °C
+Water Level: 1037 cm
+Smoke Level: 774 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:06
+Temperature: 1028 °C
+Water Level: 1338 cm
+Smoke Level: 954 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:10
+Temperature: 789 °C
+Water Level: 1039 cm
+Smoke Level: 774 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:11
+Temperature: 1027 °C
+Water Level: 1338 cm
+Smoke Level: 957 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:15
+Temperature: 792 °C
+Water Level: 1041 cm
+Smoke Level: 776 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:16
+Temperature: 1032 °C
+Water Level: 1338 cm
+Smoke Level: 959 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:20
+Temperature: 796 °C
+Water Level: 1043 cm
+Smoke Level: 779 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:21
+Temperature: 1031 °C
+Water Level: 1339 cm
+Smoke Level: 959 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:25
+Temperature: 797 °C
+Water Level: 1043 cm
+Smoke Level: 781 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:26
+Temperature: 1033 °C
+Water Level: 1342 cm
+Smoke Level: 960 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:30
+Temperature: 801 °C
+Water Level: 1044 cm
+Smoke Level: 784 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:31
+Temperature: 1033 °C
+Water Level: 1345 cm
+Smoke Level: 962 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:35
+Temperature: 803 °C
+Water Level: 1046 cm
+Smoke Level: 784 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:36
+Temperature: 1031 °C
+Water Level: 1348 cm
+Smoke Level: 963 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:40
+Temperature: 808 °C
+Water Level: 1050 cm
+Smoke Level: 784 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:41
+Temperature: 1031 °C
+Water Level: 1351 cm
+Smoke Level: 963 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:45
+Temperature: 810 °C
+Water Level: 1051 cm
+Smoke Level: 784 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:46
+Temperature: 1034 °C
+Water Level: 1353 cm
+Smoke Level: 964 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:50
+Temperature: 814 °C
+Water Level: 1053 cm
+Smoke Level: 784 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:51
+Temperature: 1035 °C
+Water Level: 1357 cm
+Smoke Level: 964 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:55
+Temperature: 815 °C
+Water Level: 1053 cm
+Smoke Level: 785 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:15:56
+Temperature: 1037 °C
+Water Level: 1359 cm
+Smoke Level: 965 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:00
+Temperature: 820 °C
+Water Level: 1057 cm
+Smoke Level: 787 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:01
+Temperature: 1040 °C
+Water Level: 1361 cm
+Smoke Level: 966 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:05
+Temperature: 823 °C
+Water Level: 1059 cm
+Smoke Level: 787 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:06
+Temperature: 1041 °C
+Water Level: 1362 cm
+Smoke Level: 968 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:10
+Temperature: 828 °C
+Water Level: 1060 cm
+Smoke Level: 788 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:11
+Temperature: 1039 °C
+Water Level: 1362 cm
+Smoke Level: 970 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:15
+Temperature: 827 °C
+Water Level: 1060 cm
+Smoke Level: 789 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:16
+Temperature: 1039 °C
+Water Level: 1364 cm
+Smoke Level: 971 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:20
+Temperature: 831 °C
+Water Level: 1062 cm
+Smoke Level: 791 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:21
+Temperature: 1038 °C
+Water Level: 1368 cm
+Smoke Level: 973 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:25
+Temperature: 830 °C
+Water Level: 1066 cm
+Smoke Level: 791 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:26
+Temperature: 1038 °C
+Water Level: 1369 cm
+Smoke Level: 975 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:30
+Temperature: 830 °C
+Water Level: 1066 cm
+Smoke Level: 794 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:31
+Temperature: 1039 °C
+Water Level: 1373 cm
+Smoke Level: 975 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:35
+Temperature: 831 °C
+Water Level: 1068 cm
+Smoke Level: 795 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:36
+Temperature: 1037 °C
+Water Level: 1377 cm
+Smoke Level: 977 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:40
+Temperature: 835 °C
+Water Level: 1071 cm
+Smoke Level: 798 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:41
+Temperature: 1041 °C
+Water Level: 1379 cm
+Smoke Level: 980 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:45
+Temperature: 838 °C
+Water Level: 1075 cm
+Smoke Level: 798 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:46
+Temperature: 1046 °C
+Water Level: 1381 cm
+Smoke Level: 981 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:50
+Temperature: 840 °C
+Water Level: 1077 cm
+Smoke Level: 798 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:51
+Temperature: 1051 °C
+Water Level: 1381 cm
+Smoke Level: 982 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:55
+Temperature: 845 °C
+Water Level: 1078 cm
+Smoke Level: 798 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:16:56
+Temperature: 1052 °C
+Water Level: 1384 cm
+Smoke Level: 984 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:00
+Temperature: 850 °C
+Water Level: 1082 cm
+Smoke Level: 801 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:01
+Temperature: 1054 °C
+Water Level: 1385 cm
+Smoke Level: 985 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:05
+Temperature: 853 °C
+Water Level: 1086 cm
+Smoke Level: 804 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:06
+Temperature: 1053 °C
+Water Level: 1386 cm
+Smoke Level: 987 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:10
+Temperature: 857 °C
+Water Level: 1086 cm
+Smoke Level: 806 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:11
+Temperature: 1055 °C
+Water Level: 1388 cm
+Smoke Level: 990 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:15
+Temperature: 861 °C
+Water Level: 1086 cm
+Smoke Level: 806 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:16
+Temperature: 1054 °C
+Water Level: 1390 cm
+Smoke Level: 990 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:20
+Temperature: 863 °C
+Water Level: 1090 cm
+Smoke Level: 808 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:21
+Temperature: 1056 °C
+Water Level: 1393 cm
+Smoke Level: 991 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:25
+Temperature: 865 °C
+Water Level: 1094 cm
+Smoke Level: 809 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:26
+Temperature: 1057 °C
+Water Level: 1396 cm
+Smoke Level: 993 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:30
+Temperature: 866 °C
+Water Level: 1097 cm
+Smoke Level: 809 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:31
+Temperature: 1058 °C
+Water Level: 1396 cm
+Smoke Level: 994 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:35
+Temperature: 868 °C
+Water Level: 1098 cm
+Smoke Level: 810 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:36
+Temperature: 1063 °C
+Water Level: 1399 cm
+Smoke Level: 994 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:40
+Temperature: 869 °C
+Water Level: 1101 cm
+Smoke Level: 810 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:41
+Temperature: 1061 °C
+Water Level: 1400 cm
+Smoke Level: 994 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:45
+Temperature: 871 °C
+Water Level: 1104 cm
+Smoke Level: 810 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:46
+Temperature: 1061 °C
+Water Level: 1401 cm
+Smoke Level: 995 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:50
+Temperature: 875 °C
+Water Level: 1107 cm
+Smoke Level: 811 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:51
+Temperature: 1059 °C
+Water Level: 1405 cm
+Smoke Level: 997 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:55
+Temperature: 878 °C
+Water Level: 1108 cm
+Smoke Level: 811 %
+Damage Severity: HIGH
+----------------------------
+
+Time: 2026-01-29 01:17:56
+Temperature: 1062 °C
+Water Level: 1409 cm
+Smoke Level: 999 %
+Damage Severity: HIGH
+----------------------------
