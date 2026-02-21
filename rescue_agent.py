@@ -19,14 +19,14 @@ class MonitorState(State):
             severity, message = self.agent.sensor_trigger
             self.agent.current_event = (severity, message)
             self.agent.sensor_trigger = None  # Clear trigger
-            print(f"[RESCUE] ⚠️ Event received from sensor: {message}")
+            print(f"[RESCUE]  Event received from sensor: {message}")
             self.set_next_state("ASSESS")
         else:
             # Simulate sensor trigger randomly (for demo)
             if random.random() < 0.3:  # 30% chance
                 from environment import generate_disaster_event
                 self.agent.current_event = generate_disaster_event()
-                print("[RESCUE] ⚠️ Event detected directly!")
+                print("[RESCUE]  Event detected directly!")
                 self.set_next_state("ASSESS")
             else:
                 print("[RESCUE] No events, continuing monitoring")
@@ -43,16 +43,16 @@ class AssessState(State):
         
         # Define rescue goals based on severity
         if severity == "LOW":
-            print("[RESCUE] ✅ Goal: No rescue required - continue monitoring")
+            print("[RESCUE]  Goal: No rescue required - continue monitoring")
             self.set_next_state("MONITOR")
             
         elif severity == "MEDIUM":
-            print("[RESCUE] ⚠️ Goal: Deploy standard rescue team")
+            print("[RESCUE]  Goal: Deploy standard rescue team")
             self.agent.rescue_goal = "standard_rescue"
             self.set_next_state("RESCUE")
             
         else:  # HIGH
-            print("[RESCUE] 🚨 Goal: Deploy emergency rescue team")
+            print("[RESCUE]  Goal: Deploy emergency rescue team")
             self.agent.rescue_goal = "emergency_rescue"
             self.set_next_state("RESCUE")
 
@@ -62,7 +62,7 @@ class RescueState(State):
         timestamp = datetime.datetime.now().strftime("%H:%M:%S")
         goal = getattr(self.agent, 'rescue_goal', 'standard_rescue')
         
-        print(f"[{timestamp}] [RESCUE] 🚑 EXECUTING: {goal}")
+        print(f"[{timestamp}] [RESCUE]  EXECUTING: {goal}")
         
         # Simulate different rescue operations
         if goal == "emergency_rescue":
@@ -90,7 +90,7 @@ class ReportState(State):
         outcome = self.agent.rescue_outcome
         timestamp = datetime.datetime.now().strftime("%H:%M:%S")
         
-        print(f"[{timestamp}] [RESCUE] 📝 REPORTING mission results")
+        print(f"[{timestamp}] [RESCUE]  REPORTING mission results")
         
         # Generate report
         report = f"""
