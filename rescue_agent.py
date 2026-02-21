@@ -11,7 +11,7 @@ import random
 class MonitorState(State):
     async def run(self):
         timestamp = datetime.datetime.now().strftime("%H:%M:%S")
-        print(f"\n[{timestamp}] [RESCUE] 🔍 Monitoring for sensor reports...")
+        print(f"\n[{timestamp}] [RESCUE]  Monitoring for sensor reports...")
         
         # Check if sensor has reported an event
         # For Lab 3, we'll simulate receiving from sensor
