@@ -89,3 +89,26 @@ All detected events and severity levels are stored in a text file (`event_log.tx
 - AsyncIO
 - File-based Logging
 
+
+#  Lab 3: Goals, Events, and Reactive Behavior
+
+## Disaster Response & Relief Coordination System
+
+This lab implements a **Rescue Agent** using Finite State Machines (FSM) to demonstrate goals, events, and reactive behavior in multi-agent systems. The agent monitors for disaster events, assesses their severity, performs rescue operations, and reports mission completion.
+
+---
+
+##  Lab Objectives
+
+- Define rescue and response goals based on event severity
+- Trigger events from sensor reports/environment
+- Implement reactive behavior using Finite State Machines (FSM)
+
+---
+
+##  Agent Architecture
+
+### Finite State Machine
+
+The Rescue Agent implements a 4-state FSM:
+
