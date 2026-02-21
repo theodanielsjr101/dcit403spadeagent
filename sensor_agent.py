@@ -1,108 +1,77 @@
+# sensor_agent.py - Lab 3 version (event trigger)
 import random
 import datetime
 import asyncio
 from spade.agent import Agent
-from spade.behaviour import PeriodicBehaviour
+from spade.behaviour import PeriodicBehaviour, FSMBehaviour, State
+from environment import generate_disaster_event
 
+class SensorFSMBehaviour(FSMBehaviour):
+    async def on_start(self):
+        print("[SENSOR] Sensor Agent FSM started")
+    
+    async def on_end(self):
+        print("[SENSOR] Sensor Agent FSM finished")
 
-class DisasterEnvironment:
-    """Simulated disaster environment"""
-
-    def __init__(self):
-        self.temperature = 25
-        self.water_level = 10
-        self.smoke = 5
-
-    def update(self):
+class DetectState(State):
+    """State 1: Detect environmental changes"""
+    async def run(self):
+        print("\n[SENSOR] 🌍 Detecting environmental conditions...")
+        await asyncio.sleep(2)
         
-        self.temperature += random.randint(-2, 5)
-        self.water_level += random.randint(0, 4)
-        self.smoke += random.randint(0, 3)
+        # Random chance to detect event (80% for demo purposes)
+        if random.random() < 0.8:
+            print("[SENSOR] ⚠️ Event detected! Moving to REPORT state")
+            self.set_next_state("REPORT")
+        else:
+            print("[SENSOR] No significant changes, continuing detection")
+            self.set_next_state("DETECT")
 
-    def get_data(self):
-        return {
-            "temperature": self.temperature,
-            "water_level": self.water_level,
-            "smoke": self.smoke
-        }
-
+class ReportState(State):
+    """State 2: Report event to rescue agent"""
+    async def run(self):
+        print("[SENSOR] 📡 Generating sensor report...")
+        
+        # Generate disaster event
+        event = generate_disaster_event()
+        severity, message = event
+        
+        # Store in agent
+        self.agent.last_event = event
+        self.agent.last_severity = severity
+        
+        # Log the sensor reading
+        timestamp = datetime.datetime.now().strftime("%H:%M:%S")
+        log = f"[{timestamp}] SENSOR REPORT - Severity: {severity} - {message}"
+        print(f"[SENSOR] {log}")
+        
+        with open("sensor_log.txt", "a") as f:
+            f.write(log + "\n")
+        
+        # In Lab 4, this is where you'd send to rescue agent
+        # For Lab 3, we'll just trigger the event in the same agent
+        print(f"[SENSOR] Event triggered: {severity} severity")
+        
+        # Return to detection
+        await asyncio.sleep(1)
+        self.set_next_state("DETECT")
 
 class SensorAgent(Agent):
-
-    class MonitorBehaviour(PeriodicBehaviour):
-
-        async def run(self):
-
-            
-            self.agent.environment.update()
-
-            data = self.agent.environment.get_data()
-
-            
-            severity = self.calculate_severity(data)
-
-            
-            time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-            log = f"""
-Time: {time}
-Temperature: {data['temperature']} °C
-Water Level: {data['water_level']} cm
-Smoke Level: {data['smoke']} %
-Damage Severity: {severity}
-----------------------------
-"""
-
-            
-            with open("event_log.txt", "a") as file:
-                file.write(log)
-
-            
-            print(log)
-
-        def calculate_severity(self, data):
-
-            if (
-                data["temperature"] > 45 or
-                data["water_level"] > 60 or
-                data["smoke"] > 70
-            ):
-                return "HIGH"
-
-            elif (
-                data["temperature"] > 35 or
-                data["water_level"] > 40 or
-                data["smoke"] > 40
-            ):
-                return "MEDIUM"
-
-            else:
-                return "LOW"
-
     async def setup(self):
-
-        print("SensorAgent started...")
-
-        self.environment = DisasterEnvironment()
-
-        behaviour = self.MonitorBehaviour(period=5)  
-        self.add_behaviour(behaviour)
-
-
-async def main():
-
-    agent = SensorAgent(
-        "theodices@xmpp.jp",  
-        "00009999theo$"           
-    )
-
-    await agent.start()
-
-    print("Agent is running...")
-
-    while True:
-        await asyncio.sleep(1)
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
+        print("\n" + "="*50)
+        print("SENSOR AGENT INITIALIZED")
+        print("="*50)
+        
+        self.last_event = None
+        self.last_severity = None
+        
+        # Create FSM for sensor
+        fsm = SensorFSMBehaviour()
+        fsm.add_state(name="DETECT", state=DetectState(), initial=True)
+        fsm.add_state(name="REPORT", state=ReportState())
+        fsm.add_transition(source="DETECT", dest="DETECT")
+        fsm.add_transition(source="DETECT", dest="REPORT")
+        fsm.add_transition(source="REPORT", dest="DETECT")
+        
+        self.add_behaviour(fsm)
+        print("[SENSOR] Monitoring for events...\n")
